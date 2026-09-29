@@ -1,0 +1,36 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+symptom:agnimandya,SYMPTOM,,agnimāndya,अग्निमांद्य,अग्निमान्द्य|mandāgni|मन्दाग्नि|मंदाग्नि|agnimandya,भूख न लगना|bhookh na lagna|bhukh na lagna,Indigestion|Loss of appetite|Poor digestion,,,,,,user-seed
+symptom:anaha,SYMPTOM,,ānāha,आनाह,,पेट फूलना|pet phoolna|pet fulna,Bloating|Abdominal distension,,,,,,user-seed
+symptom:atopa,SYMPTOM,,āṭopa,आटोप,,गैस बनना|gas banna,Flatulence|Gurgling,,,,,,user-seed
+symptom:adhmana,SYMPTOM,,ādhmāna,आध्मान,,अफारा|afara,Tympanitis|Gaseous distension,,,,,,seed-v0
+symptom:vibandha,SYMPTOM,,vibandha,विबन्ध,विबंध|malabaddhatā|मलबद्धता,कब्ज|कब्ज़|kabj|kabz|qabz,Constipation,,,,,,user-seed
+symptom:shula,SYMPTOM,,śūla,शूल,vedanā|वेदना,~दर्द|~dard,Pain|Colic,,,,,,user-seed
+symptom:udarashula,SYMPTOM,,udaraśūla,उदरशूल,उदर शूल|udara śūla,पेट दर्द|pet dard|पेट में दर्द,Stomach ache|Abdominal pain,,,,,,user-seed
+symptom:shirahshula,SYMPTOM,,śiraḥśūla,शिरःशूल,शिरशूल|śiraśūla|śirośūla|शिरोशूल,सिरदर्द|sirdard|सिर दर्द|sar dard,Headache,,,,,user list put सिरदर्द with शिरोरोग,user-seed
+symptom:daha,SYMPTOM,,dāha,दाह,,जलन|jalan,Burning sensation,,,,,,user-seed
+symptom:hriddaha,SYMPTOM,,hṛddāha,हृद्दाह,hṛdayadāha|हृदयदाह|urodāha,सीने में जलन|seene mein jalan,Heartburn,,,,,user list spelled हृद्वाह,user-seed
+symptom:chardi,SYMPTOM,,chardi,छर्दि,छर्दी|vamathu|वमथु,उल्टी|उलटी|ulti,Vomiting|Emesis,,,,,,user-seed
+symptom:hrillasa,SYMPTOM,,hṛllāsa,हृल्लास,utkleśa|उत्क्लेश,जी मिचलाना|ji michlana|मतली|matli,Nausea,,,,,user list wrote उल्लास (which means joy),user-seed
+symptom:aruci,SYMPTOM,,aruci,अरुचि,arocaka|अरोचक,स्वाद न आना|khana achha na lagna,Anorexia|Loss of taste,,,,,,user-seed
+symptom:bhrama,SYMPTOM,,bhrama,भ्रम,,चक्कर आना|chakkar aana,Vertigo|Giddiness,,,,yes,Hindi भ्रम also means illusion,user-seed
+symptom:tandra,SYMPTOM,,tandrā,तन्द्रा,तंद्रा,सुस्ती|susti,Lethargy|Drowsiness,,,,,,user-seed
+symptom:klama,SYMPTOM,,klama,क्लम,,थकान|thakan|thakaan,Fatigue,,,,,,user-seed
+symptom:nidranasha,SYMPTOM,,nidrānāśa,निद्रानाश,anidrā|अनिद्रा|asvapna|अस्वप्न,नींद न आना|neend na aana,Insomnia,,,,,,user-seed
+symptom:atinidra,SYMPTOM,,atinidrā,अतिनिद्रा,,ज्यादा सोना|ज़्यादा नींद,Hypersomnia,,,,,,user-seed
+symptom:gaurava,SYMPTOM,,gaurava,गौरव,gātragaurava|गात्रगौरव|aṅgagaurava|अङ्गगौरव,भारीपन|bharipan,Heaviness,,,,yes,गौरव also means pride and is a common name,user-seed
+symptom:daurbalya,SYMPTOM,,daurbalya,दौर्बल्य,balakṣaya|बलक्षय,कमजोरी|कमज़ोरी|kamzori|kamjori,Weakness|Debility,,,,,,user-seed
+symptom:kathinya,SYMPTOM,,kāṭhinya,काठिन्य,stabdhatā,कड़ापन|akdan|अकड़न,Stiffness|Hardness,,,,,,user-seed
+symptom:kandu,SYMPTOM,,kaṇḍū,कण्डू,कंडू|kaṇḍu,खुजली|khujli|kharish,Itching|Pruritus,,,,,,user-seed
+symptom:tvak_rukshata,SYMPTOM,,tvak rūkṣatā,त्वक् रूक्षता,त्वक रूक्षता|tvagrūkṣatā|त्वग्रूक्षता,रूखी त्वचा|sukhi tvacha,Dry skin,,,,,,user-seed
+symptom:kampa,SYMPTOM,,kampa,कम्प,कंपन|kampana|कम्पन|vepathu|वेपथु,कँपकँपी|कंपकंपी|kanpkanpi,Tremor,,,,,,user-seed
+symptom:angamarda,SYMPTOM,,aṅgamarda,अङ्गमर्द,अंगमर्द,बदन दर्द|badan dard,Body ache|Myalgia,,,,,,seed-v0
+symptom:sandhishula,SYMPTOM,,sandhiśūla,सन्धिशूल,संधिशूल|sandhivedanā,जोड़ों का दर्द|jodon ka dard,Joint pain|Arthralgia,,,,,,seed-v0
+symptom:sandhishotha,SYMPTOM,,sandhiśotha,सन्धिशोथ,संधिशोथ,जोड़ों में सूजन,Joint swelling,,,,,,seed-v0
+symptom:jrimbha,SYMPTOM,,jṛmbhā,जृम्भा,,उबासी|ubasi|जम्हाई,Yawning,,,,,,seed-v0
+symptom:udgara,SYMPTOM,,udgāra,उद्गार,,डकार|dakar,Belching|Eructation,,,,,,seed-v0
+symptom:mukhashosha,SYMPTOM,,mukhaśoṣa,मुखशोष,āsyaśoṣa|आस्यशोष,मुंह सूखना,Dry mouth,,,,,,seed-v0
+symptom:atisveda,SYMPTOM,,atisveda,अतिस्वेद,,ज्यादा पसीना,Excessive sweating|Hyperhidrosis,,,,,,seed-v0
+symptom:angasada,SYMPTOM,,aṅgasāda,अङ्गसाद,अंगसाद,,Malaise|Body weakness,,,,,,seed-v0
+symptom:pipasa,SYMPTOM,,pipāsā,पिपासा,,प्यास|pyas,Thirst,,,,yes,,seed-v0
+symptom:shirogaurava,SYMPTOM,,śirogaurava,शिरोगौरव,,सिर भारी,Heaviness of head,,,,,,seed-v0
+symptom:kshudhamandya,SYMPTOM,,kṣudhāmāndya,क्षुधामान्द्य,kṣudhānāśa|क्षुधानाश,भूख कम लगना,Reduced appetite,,,,,,seed-v0

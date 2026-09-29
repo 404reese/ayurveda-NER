@@ -1,0 +1,71 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+roga:roga,ROGA,generic,roga,रोग,rogāḥ|vyādhi|व्याधि|vikāra|विकार|āmaya|आमय,बीमारी|bimari|rog,Disease,,,,compose,generic head word; only emitted inside compounds such as vāta roga,seed-v0
+roga:jvara,ROGA,,jvara,ज्वर,jvaraḥ|ज्वरः,बुखार|bukhar|bukhaar|jwar,Fever,,,,,,user-seed
+roga:amlapitta,ROGA,,amlapitta,अम्लपित्त,अम्ल पित्त|amla pitta,एसिडिटी|acidity|अम्लपित्त,Acidity|Hyperacidity,,,,,,user-seed
+roga:atisara,ROGA,,atisāra,अतिसार,अतीसार,दस्त|dast|डायरिया|diarrhoea,Diarrhoea|Diarrhea,,,,,,user-seed
+roga:grahani,ROGA,,grahaṇī,ग्रहणी,grahaṇī roga|ग्रहणी रोग|grahaṇīdoṣa,sangrahani|संग्रहणी,IBS|Irritable bowel syndrome|Malabsorption syndrome,,,,,grahaṇī is also the anatomical duodenum,user-seed
+roga:kasa,ROGA,,kāsa,कास,kāsaḥ|कासः,खांसी|खाँसी|khansi|khaansi,Cough,,,,,,user-seed
+roga:shvasa,ROGA,,śvāsa,श्वास,śvāsa roga|श्वास रोग|tamaka śvāsa|तमक श्वास,दमा|dama|asthma,Asthma|Dyspnoea|Breathlessness,,,,yes,Hindi श्वास alone also means breath,user-seed
+roga:prameha,ROGA,,prameha,प्रमेह,prameharoga,,Prameha (urinary disorders),,,,,,user-seed
+roga:madhumeha,ROGA,,madhumeha,मधुमेह,kṣaudrameha|क्षौद्रमेह,डायबिटीज|diabetes|sugar ki bimari,Diabetes|Diabetes mellitus,,,,,,user-seed
+roga:kushtha,ROGA,,kuṣṭha,कुष्ठ,कुष्ठरोग|kuṣṭharoga,kodh|कोढ़,Skin disease (kushtha)|Leprosy,,,,,kuṣṭha is also a herb (Saussurea costus),user-seed
+roga:tvagroga,ROGA,,tvagroga,त्वग्रोग,त्वचारोग|tvacāroga|त्वक विकार|tvak vikāra|त्वग्विकार|tvagvikāra,त्वचा रोग|twacha rog|चर्म रोग|charm rog,Skin disease|Skin disorders,,,,,,user-seed
+roga:vatavyadhi,ROGA,,vātavyādhi,वातव्याधि,वात व्याधि|vāta vyādhi|vātaroga|वातरोग|वात रोग|vāta roga,vat rog|vaat rog,Vata disorders|Neuromuscular disorders,,,,,,user-seed
+roga:gridhrasi,ROGA,,gṛdhrasī,गृध्रसी,,गृध्रसी|sciatica,Sciatica,,,,,,seed-v0
+roga:sandhivata,ROGA,,sandhivāta,सन्धिवात,संधिवात|sandhigata vāta|सन्धिगत वात,गठिया|gathiya|ghutno ka dard,Osteoarthritis,,,,,,user-seed
+roga:amavata,ROGA,,āmavāta,आमवात,आम वात,aamvaat|amvat,Rheumatoid arthritis|Arthritis,,,,,user list spelled Artritis,user-seed
+roga:vatarakta,ROGA,,vātarakta,वातरक्त,vātāsra|वातास्र|ādhyavāta,गाउट|gout,Gout,,,,,,user-seed
+roga:kamala,ROGA,,kāmalā,कामला,,पीलिया|piliya|peeliya|जॉन्डिस,Jaundice,,,,,,user-seed
+roga:yakrit_vikara,ROGA,,yakṛt vikāra,यकृत विकार,यकृद्रोग|yakṛdroga|यकृत रोग|yakṛt roga,लिवर की बीमारी,Liver disorder|Liver disease,,,,,,user-seed
+roga:arsha,ROGA,,arśas,अर्शस्,अर्श|arśa|अर्शस|अर्शांसि,बवासीर|bavasir|bawaseer|बवासीर रोग,Piles|Haemorrhoids|Hemorrhoids,,,,,,user-seed
+roga:bhagandara,ROGA,,bhagandara,भगन्दर,भगंदर,फिस्टुला|fistula,Fistula-in-ano|Anal fistula,,,,,,user-seed
+roga:pandu,ROGA,,pāṇḍu,पाण्डु,पांडु|pāṇḍuroga|पाण्डुरोग|पांडुरोग,एनीमिया|anaemia|खून की कमी|khoon ki kami,Anaemia|Anemia,,,,,,user-seed
+roga:shotha,ROGA,,śotha,शोथ,śopha|शोफ|śvayathu|श्वयथु,सूजन|sujan|soojan,Oedema|Edema|Swelling|Inflammation,,,,,,user-seed
+roga:hridroga,ROGA,,hṛdroga,हृद्रोग,हृदय रोग|hṛdaya roga|hṛdroga,दिल की बीमारी|dil ki bimari,Heart disease,,,,,,user-seed
+roga:shiroroga,ROGA,,śiroroga,शिरोरोग,शिरो रोग,सिर के रोग,Diseases of the head,,,,,,user-seed
+roga:ardhavabhedaka,ROGA,,ardhāvabhedaka,अर्धावभेदक,,आधासीसी|adhasisi|माइग्रेन,Migraine|Hemicrania,,,,,,seed-v0
+roga:apasmara,ROGA,,apasmāra,अपस्मार,,मिर्गी|mirgi,Epilepsy,,,,,,user-seed
+roga:unmada,ROGA,,unmāda,उन्माद,,पागलपन|pagalpan,Insanity|Psychosis,,,,,,user-seed
+roga:manasa_roga,ROGA,,mānasa roga,मानस रोग,मानसरोग|mānasika roga,मानसिक रोग|mansik rog,Mental disorder,,,,,user list paired मानसिक रोग with Psychosis,user-seed
+roga:krimi,ROGA,,kṛmiroga,कृमिरोग,कृमि रोग|kṛmi|कृमि|krimi,पेट के कीड़े|कीड़े|pet ke keede,Worm infestation|Worms|Helminthiasis,,,,,,user-seed
+roga:gulma,ROGA,,gulma,गुल्म,gulmaroga,,Abdominal lump,,,,,,user-seed
+roga:arbuda,ROGA,,arbuda,अर्बुद,,ट्यूमर|tumour|गांठ|ganth,Tumour|Tumor|Neoplasm,,,,,user list put ट्यूमर with gulma; arbuda is the closer term,user-seed
+roga:udararoga,ROGA,,udararoga,उदररोग,उदर रोग|udara roga,पेट के रोग,Abdominal disease,,,,,,user-seed
+roga:jalodara,ROGA,,jalodara,जलोदर,dakodara|दकोदर,ड्रॉप्सी|ड्रोप्सी|dropsy|jalodar,Ascites|Dropsy,,,,,,user-seed
+roga:sthaulya,ROGA,,sthaulya,स्थौल्य,medoroga|मेदोरोग|atisthaulya|अतिस्थौल्य|medodoṣa,मोटापा|motapa,Obesity,,,,,,user-seed
+roga:karshya,ROGA,,kārśya,कार्श्य,atikārśya|अतिकार्श्य,दुबलापन|dublapan,Emaciation|Leanness,,,,,,user-seed
+roga:pratishyaya,ROGA,,pratiśyāya,प्रतिश्याय,pīnasa-pratiśyāya,जुकाम|zukam|jukam|सर्दी जुकाम,Common cold|Coryza,,,,,,seed-v0
+roga:pinasa,ROGA,,pīnasa,पीनस,,पीनस,Chronic rhinitis|Sinusitis,,,,,,seed-v0
+roga:rajayakshma,ROGA,,rājayakṣmā,राजयक्ष्मा,yakṣmā|यक्ष्मा|kṣaya roga,टीबी|tapedik|तपेदिक|क्षय रोग,Tuberculosis|Consumption,,,,,,seed-v0
+roga:mutrakricchra,ROGA,,mūtrakṛcchra,मूत्रकृच्छ्र,,पेशाब में जलन,Dysuria,,,,,,seed-v0
+roga:mutraghata,ROGA,,mūtrāghāta,मूत्राघात,,पेशाब रुकना,Urinary obstruction|Retention of urine,,,,,,seed-v0
+roga:ashmari,ROGA,,aśmarī,अश्मरी,mūtrāśmarī|मूत्राश्मरी,पथरी|pathri|pathari,Urinary calculus|Kidney stone,,,,,,seed-v0
+roga:raktapitta,ROGA,,raktapitta,रक्तपित्त,,नकसीर|naksir,Bleeding disorder|Haemorrhagic disorder,,,,,,seed-v0
+roga:ajirna,ROGA,,ajīrṇa,अजीर्ण,ajīrṇaroga,अपच|apach|badhazmi|बदहजमी,Dyspepsia,,,,,,seed-v0
+roga:visucika,ROGA,,visūcikā,विसूचिका,,हैजा|haija|haiza,Cholera|Gastroenteritis,,,,,,seed-v0
+roga:pravahika,ROGA,,pravāhikā,प्रवाहिका,,पेचिश|pechish,Dysentery,,,,,,seed-v0
+roga:alasaka,ROGA,,alasaka,अलसक,,,Intestinal torpor,,,,,,seed-v0
+roga:udavarta,ROGA,,udāvarta,उदावर्त,,,Reverse peristalsis (udavarta),,,,,,seed-v0
+roga:vicarcika,ROGA,,vicarcikā,विचर्चिका,,एक्जिमा|eczema,Eczema,,,,,,seed-v0
+roga:ekakushtha,ROGA,,ekakuṣṭha,एककुष्ठ,kiṭibha|किटिभ,सोरायसिस|psoriasis,Psoriasis,,,,,,seed-v0
+roga:shvitra,ROGA,,śvitra,श्वित्र,kilāsa|किलास,सफेद दाग|safed daag|ल्यूकोडर्मा,Vitiligo|Leucoderma,,,,,,seed-v0
+roga:visarpa,ROGA,,visarpa,विसर्प,,,Erysipelas|Spreading skin infection,,,,,,seed-v0
+roga:galaganda,ROGA,,galagaṇḍa,गलगण्ड,गलगंड,घेंघा|ghengha|goitre,Goitre|Goiter,,,,,,seed-v0
+roga:pakshaghata,ROGA,,pakṣāghāta,पक्षाघात,pakṣavadha|पक्षवध|ekāṅgavāta,लकवा|lakwa|lakva|फालिज,Hemiplegia|Paralysis,,,,,,seed-v0
+roga:ardita,ROGA,,ardita,अर्दित,,मुंह का लकवा|bell's palsy,Facial palsy,,,,,,seed-v0
+roga:katigraha,ROGA,,kaṭigraha,कटिग्रह,कटिशूल|kaṭiśūla,कमर दर्द|kamar dard,Lumbago|Low back pain,,,,,,seed-v0
+roga:manyastambha,ROGA,,manyāstambha,मन्यास्तम्भ,,गर्दन अकड़ना,Torticollis|Neck stiffness,,,,,,seed-v0
+roga:hikka,ROGA,,hikkā,हिक्का,,हिचकी|hichki,Hiccup,,,,,,seed-v0
+roga:mukhapaka,ROGA,,mukhapāka,मुखपाक,,मुंह के छाले|munh ke chhale|chhale,Stomatitis|Mouth ulcers,,,,,,seed-v0
+roga:pradara,ROGA,,pradara,प्रदर,asṛgdara|असृग्दर,,Menorrhagia|Abnormal uterine bleeding,,,,,,seed-v0
+roga:shvetapradara,ROGA,,śvetapradara,श्वेतप्रदर,,सफेद पानी|safed pani|ल्यूकोरिया,Leucorrhoea,,,,,,seed-v0
+roga:kashtartava,ROGA,,kaṣṭārtava,कष्टार्तव,,मासिक धर्म में दर्द,Dysmenorrhoea,,,,,,seed-v0
+roga:vandhyatva,ROGA,,vandhyatva,वन्ध्यत्व,वंध्यत्व|vandhyā,बांझपन|banjhpan,Infertility (female),,,,,,seed-v0
+roga:klaibya,ROGA,,klaibya,क्लैब्य,,नपुंसकता|napunsakta,Erectile dysfunction|Impotence,,,,,,seed-v0
+roga:nidranasha_roga,ROGA,,anidrā roga,अनिद्रा रोग,,,Insomnia disorder,,,,,,seed-v0
+roga:sannipata_jvara,ROGA,,sannipāta jvara,सन्निपात ज्वर,सन्निपातज्वर|tridoṣaja jvara,,Fever of all three doshas,,,,,,seed-v0
+roga:vishamajvara,ROGA,,viṣamajvara,विषमज्वर,विषम ज्वर,मलेरिया|malaria,Intermittent fever|Malaria,,,,,,seed-v0
+roga:amlapitta_urdhvaga,ROGA,,ūrdhvaga amlapitta,ऊर्ध्वग अम्लपित्त,,,Upward-moving acidity,,,,,,seed-v0
+roga:trishna,ROGA,,tṛṣṇā,तृष्णा,,,Morbid thirst,,,,yes,tṛṣṇā also means craving,seed-v0
+roga:madatyaya,ROGA,,madātyaya,मदात्यय,,शराब की लत,Alcoholism,,,,,,seed-v0
+roga:amavisha,ROGA,,āmaviṣa,आमविष,,,Toxic undigested matter (ama-visha),,,,,,seed-v0

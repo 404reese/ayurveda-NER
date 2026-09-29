@@ -1,0 +1,55 @@
+{"lang": "hi", "text": "अश्वगंधा चूर्ण वात रोगों में उपयोगी है।", "entities": [["अश्वगंधा चूर्ण", "FORMULATION"], ["वात रोगों", "ROGA"]]}
+{"lang": "hi", "text": "गिलोय और तुलसी का काढ़ा बुखार में दिया जाता है।", "entities": [["गिलोय", "DRAVYA"], ["तुलसी", "DRAVYA"], ["काढ़ा", "DOSAGE_FORM"], ["बुखार", "ROGA"]]}
+{"lang": "hi", "text": "त्रिफला चूर्ण कब्ज में लाभकारी है।", "entities": [["त्रिफला चूर्ण", "FORMULATION"], ["कब्ज", "SYMPTOM"]]}
+{"lang": "hi", "text": "पित्त बढ़ने से सीने में जलन और अम्लपित्त होता है।", "entities": [["पित्त", "DOSHA"], ["सीने में जलन", "SYMPTOM"], ["अम्लपित्त", "ROGA"]]}
+{"lang": "hi", "text": "कफ दोष के कारण खांसी और दमा होता है।", "entities": [["कफ दोष", "DOSHA"], ["खांसी", "ROGA"], ["दमा", "ROGA"]]}
+{"lang": "hi", "text": "हल्दी और अदरक सूजन कम करते हैं।", "entities": [["हल्दी", "DRAVYA"], ["अदरक", "DRAVYA"], ["सूजन", "ROGA"]]}
+{"lang": "hi", "text": "पंचकर्म में वमन, विरेचन, बस्ति, नस्य और रक्तमोक्षण शामिल हैं।", "entities": [["पंचकर्म", "PROCEDURE"], ["वमन", "PROCEDURE"], ["विरेचन", "PROCEDURE"], ["बस्ति", "PROCEDURE"], ["नस्य", "PROCEDURE"], ["रक्तमोक्षण", "PROCEDURE"]]}
+{"lang": "hi", "text": "अभ्यंग के बाद स्वेदन किया जाता है।", "entities": [["अभ्यंग", "PROCEDURE"], ["स्वेदन", "PROCEDURE"]]}
+{"lang": "hi", "text": "शिरोधारा अनिद्रा और सिरदर्द में उपयोगी है।", "entities": [["शिरोधारा", "PROCEDURE"], ["अनिद्रा", "SYMPTOM"], ["सिरदर्द", "SYMPTOM"]]}
+{"lang": "hi", "text": "मधुमेह के रोगी को करेला और मेथी दी जाती है।", "entities": [["मधुमेह", "ROGA"], ["करेला", "DRAVYA"], ["मेथी", "DRAVYA"]]}
+{"lang": "hi", "text": "आमवात में महारास्नादि क्वाथ और सिंहनाद गुग्गुलु दिया जाता है।", "entities": [["आमवात", "ROGA"], ["महारास्नादि क्वाथ", "FORMULATION"], ["सिंहनाद गुग्गुलु", "FORMULATION"]]}
+{"lang": "hi", "text": "पीलिया में पुनर्नवा और कुटकी उपयोगी हैं।", "entities": [["पीलिया", "ROGA"], ["पुनर्नवा", "DRAVYA"], ["कुटकी", "DRAVYA"]]}
+{"lang": "hi", "text": "बवासीर में अर्श कुठार रस और त्रिफला का प्रयोग होता है।", "entities": [["बवासीर", "ROGA"], ["अर्श कुठार रस", "FORMULATION"], ["त्रिफला", "FORMULATION"]]}
+{"lang": "hi", "text": "शतावरी स्तन्य बढ़ाती है और पित्त को शांत करती है।", "entities": [["शतावरी", "DRAVYA"], ["स्तन्य", "DHATU"], ["पित्त", "DOSHA"]]}
+{"lang": "hi", "text": "ब्राह्मी और शंखपुष्पी मेध्य रसायन हैं।", "entities": [["ब्राह्मी", "DRAVYA"], ["शंखपुष्पी", "DRAVYA"], ["मेध्य", "KARMA"], ["रसायन", "KARMA"]]}
+{"lang": "hi", "text": "अर्जुन की छाल हृदय के लिए हितकारी है।", "entities": [["अर्जुन", "DRAVYA"], ["हृदय", "ANATOMY"]]}
+{"lang": "hi", "text": "यह सुझाव समान रूप से सभी पर लागू होता है।", "entities": []}
+{"lang": "hi", "text": "उसने गुरु से शिक्षा ली और देश लौट आया।", "entities": []}
+{"lang": "hi", "text": "मुझे आम बहुत पसंद है।", "entities": []}
+{"lang": "hi", "text": "अजवाइन और हींग पेट दर्द में राहत देते हैं।", "entities": [["अजवाइन", "DRAVYA"], ["हींग", "DRAVYA"], ["पेट दर्द", "SYMPTOM"]]}
+{"lang": "hi", "text": "च्यवनप्राश रोग प्रतिरोधक क्षमता बढ़ाता है।", "entities": [["च्यवनप्राश", "FORMULATION"]]}
+{"lang": "hi", "text": "गठिया में महानारायण तेल की मालिश करें।", "entities": [["गठिया", "ROGA"], ["महानारायण तेल", "FORMULATION"], ["मालिश", "PROCEDURE"]]}
+{"lang": "hi", "text": "नीम त्वचा रोगों में लाभदायक है।", "entities": [["नीम", "DRAVYA"], ["त्वचा रोगों", "ROGA"]]}
+{"lang": "hi", "text": "मंदाग्नि, अरुचि और उल्टी में हिंग्वष्टक चूर्ण दें।", "entities": [["मंदाग्नि", "SYMPTOM"], ["अरुचि", "SYMPTOM"], ["उल्टी", "SYMPTOM"], ["हिंग्वष्टक चूर्ण", "FORMULATION"]]}
+{"lang": "hi", "text": "रक्त धातु की कमी से पाण्डु रोग होता है।", "entities": [["रक्त धातु", "DHATU"], ["पाण्डु रोग", "ROGA"]]}
+{"lang": "sa", "text": "अश्वगन्धाचूर्णम् वातरोगेषु हितम्।", "entities": [["अश्वगन्धाचूर्णम्", "FORMULATION"], ["वातरोगेषु", "ROGA"]]}
+{"lang": "sa", "text": "वायुः पित्तं कफश्चेति त्रयो दोषाः समासतः।", "entities": [["वायुः", "DOSHA"], ["पित्तं", "DOSHA"], ["कफश्चेति", "DOSHA"], ["त्रयो दोषाः", "DOSHA"]]}
+{"lang": "sa", "text": "रसासृङ्मांसमेदोऽस्थिमज्जशुक्राणि धातवः।", "entities": [["रसासृङ्मांसमेदोऽस्थिमज्जशुक्राणि", "DHATU"], ["धातवः", "DHATU"]]}
+{"lang": "sa", "text": "हरीतकी आमलकी विभीतकश्च त्रिफला।", "entities": [["हरीतकी", "DRAVYA"], ["आमलकी", "DRAVYA"], ["विभीतकश्च", "DRAVYA"], ["त्रिफला", "FORMULATION"]]}
+{"lang": "sa", "text": "ज्वरे पेयाः कषायाः स्युः।", "entities": [["ज्वरे", "ROGA"], ["कषायाः", "DOSAGE_FORM"]]}
+{"lang": "sa", "text": "गुडूची ज्वरनाशिनी रसायनी च।", "entities": [["गुडूची", "DRAVYA"]]}
+{"lang": "sa", "text": "मधुरो रसः शीतवीर्यः।", "entities": [["मधुरो रसः", "PROPERTY"], ["शीतवीर्यः", "PROPERTY"]]}
+{"lang": "sa", "text": "पिप्पली मरिचं शुण्ठी त्रिकटु।", "entities": [["पिप्पली", "DRAVYA"], ["मरिचं", "DRAVYA"], ["शुण्ठी", "DRAVYA"], ["त्रिकटु", "FORMULATION"]]}
+{"lang": "sa", "text": "कासे श्वासे च वासा हिता।", "entities": [["कासे", "ROGA"], ["श्वासे", "ROGA"], ["वासा", "DRAVYA"]]}
+{"lang": "sa", "text": "आमवाते गुग्गुलुः श्रेष्ठः।", "entities": [["आमवाते", "ROGA"], ["गुग्गुलुः", "DRAVYA"]]}
+{"lang": "iast", "text": "aśvagandhā cūrṇa vāta roga", "entities": [["aśvagandhā cūrṇa", "FORMULATION"], ["vāta roga", "ROGA"]]}
+{"lang": "iast", "text": "guḍūcī kvātha jvara", "entities": [["guḍūcī kvātha", "FORMULATION"], ["jvara", "ROGA"]]}
+{"lang": "iast", "text": "śirodhārā and nasya are pañcakarma procedures", "entities": [["śirodhārā", "PROCEDURE"], ["nasya", "PROCEDURE"], ["pañcakarma", "PROCEDURE"]]}
+{"lang": "iast", "text": "madhura rasa, guru guṇa, śīta vīrya", "entities": [["madhura rasa", "PROPERTY"], ["guru guṇa", "PROPERTY"], ["śīta vīrya", "PROPERTY"]]}
+{"lang": "iast", "text": "prāṇavaha srotas and annavaha srotas", "entities": [["prāṇavaha srotas", "ANATOMY"], ["annavaha srotas", "ANATOMY"]]}
+{"lang": "en", "text": "Ashwagandha churna is useful in vata disorders.", "entities": [["Ashwagandha churna", "FORMULATION"], ["vata disorders", "ROGA"]]}
+{"lang": "en", "text": "Triphala churna is good for kapha and constipation.", "entities": [["Triphala churna", "FORMULATION"], ["kapha", "DOSHA"], ["constipation", "SYMPTOM"]]}
+{"lang": "hinglish", "text": "Giloy aur tulsi ka kadha bukhar mein lein.", "entities": [["Giloy", "DRAVYA"], ["tulsi", "DRAVYA"], ["kadha", "DOSAGE_FORM"], ["bukhar", "ROGA"]]}
+{"lang": "hinglish", "text": "Mahanarayan tel se abhyanga karein.", "entities": [["Mahanarayan tel", "FORMULATION"], ["abhyanga", "PROCEDURE"]]}
+{"lang": "hinglish", "text": "Yograj guggul sandhivata aur amavata mein diya jata hai.", "entities": [["Yograj guggul", "FORMULATION"], ["sandhivata", "ROGA"], ["amavata", "ROGA"]]}
+{"lang": "hinglish", "text": "Ashokarishta aur dashmularishta mahilaon ke liye hain.", "entities": [["Ashokarishta", "FORMULATION"], ["dashmularishta", "FORMULATION"]]}
+{"lang": "hinglish", "text": "Pitta dosha badhne se acidity hoti hai.", "entities": [["Pitta dosha", "DOSHA"], ["acidity", "ROGA"]]}
+{"lang": "hinglish", "text": "Shatavari aur safed musli dono vajikarana hain.", "entities": [["Shatavari", "DRAVYA"], ["safed musli", "DRAVYA"], ["vajikarana", "KARMA"]]}
+{"lang": "hinglish", "text": "Haldi doodh khansi aur jukam mein lein.", "entities": [["Haldi", "DRAVYA"], ["doodh", "DRAVYA"], ["khansi", "ROGA"], ["jukam", "ROGA"]]}
+{"lang": "hinglish", "text": "Amla churna aur sitopaladi churna saath mein lein.", "entities": [["Amla churna", "FORMULATION"], ["sitopaladi churna", "FORMULATION"]]}
+{"lang": "hinglish", "text": "Vatha and pitha are doshas in Kerala spelling.", "entities": [["Vatha", "DOSHA"], ["pitha", "DOSHA"]]}
+{"lang": "hinglish", "text": "Brahmi, shankhpushpi aur jatamansi dimag ke liye achhe hain.", "entities": [["Brahmi", "DRAVYA"], ["shankhpushpi", "DRAVYA"], ["jatamansi", "DRAVYA"], ["dimag", "ANATOMY"]]}
+{"lang": "hinglish", "text": "Chandraprabha vati mutra rogon mein upyogi hai.", "entities": [["Chandraprabha vati", "FORMULATION"], ["mutra rogon", "ROGA"]]}
+{"lang": "hinglish", "text": "Is baat par dhyan do, yeh samaan hai.", "entities": []}
+{"lang": "hinglish", "text": "Kaishore guggul aur khadirarishta twacha rog mein.", "entities": [["Kaishore guggul", "FORMULATION"], ["khadirarishta", "FORMULATION"], ["twacha rog", "ROGA"]]}

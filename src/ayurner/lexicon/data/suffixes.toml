@@ -1,0 +1,25 @@
+# Inflectional endings stripped from folded (strict, no final-schwa drop) keys.
+# Keys are in the folded alphabet: no diacritics, ś/ṣ -> sh, visarga dropped,
+# anusvara -> m (word-final) or n. Stems are only *candidates*: a stem counts
+# only when it is found in the lexicon, so over-generation is harmless.
+
+min_stem_length = 3
+
+sanskrit = [
+  # a-stems
+  "asya", "ena", "aya", "at", "am", "au", "abhyam", "ayo", "an", "ani", "ai", "ebhya", "anam", "eshu", "e",
+  # ā-stems (feminine)
+  "aya", "ayam", "abhi", "asu",
+  # i / ī-stems
+  "im", "ina", "aye", "inam", "ishu", "ya", "yam", "yah", "inya",
+  # u-stems
+  "um", "una", "ave", "unam", "ushu", "o",
+  # sandhi with enclitics: -ś ca ("and"), -ś ceti, iti, api
+  "shca", "shceti", "sca", "ceti", "ca", "iti", "api",
+  # consonant / generic endings
+  "nam", "bhi", "bhya", "shu", "su", "m", "sa", "ah",
+]
+
+hindi = [
+  "iyon", "iyom", "yon", "yom", "on", "om", "en", "em", "e", "ka", "ki", "ke",
+]

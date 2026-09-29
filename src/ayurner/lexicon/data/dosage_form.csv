@@ -1,0 +1,24 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+dosage_form:curna,DOSAGE_FORM,,cūrṇa,चूर्ण,चूर्णम्|cūrṇam,चूरन|churan|churna|पाउडर|powder,Powder,,,,,user list had पाउडर on its own; grouped here,user-seed
+dosage_form:kvatha,DOSAGE_FORM,,kvātha,क्वाथ,क्वाथः|kaṣāyam|कषायम्|śṛta,काढ़ा|काढा|kadha|kwath|kwatha|kashayam,Decoction,,,,,kaṣāya alone is the astringent taste so only kaṣāyam is listed,user-seed
+dosage_form:vati,DOSAGE_FORM,,vaṭī,वटी,guṭikā|गुटिका|vaṭikā|वटिका|guḍikā,बटी|bati|vati|~गोली|~goli|tablet|gutika,Tablet|Pill,,,,,,user-seed
+dosage_form:ghrita,DOSAGE_FORM,,ghṛta,घृत,घृतम्|sarpis|सर्पिस्,घी|ghee|ghi|ghrit,Ghee|Medicated ghee,,,,,also the substance ghee,user-seed
+dosage_form:taila,DOSAGE_FORM,,taila,तैल,तैलम्|tailam,तेल|tel|oil,Oil|Medicated oil,,,,,,user-seed
+dosage_form:avaleha,DOSAGE_FORM,,avaleha,अवलेह,leha|लेह|prāśa|प्राश,avaleh|अवलेह,Linctus|Electuary,,,,,,user-seed
+dosage_form:asava,DOSAGE_FORM,,āsava,आसव,āsavam,asav|asava,Fermented infusion,,,,,,user-seed
+dosage_form:arishta,DOSAGE_FORM,,ariṣṭa,अरिष्ट,ariṣṭam|अरिष्टम्,arishta|arisht,Fermented decoction,,,,,ariṣṭa also means a fatal prognostic sign,user-seed
+dosage_form:bhasma,DOSAGE_FORM,,bhasma,भस्म,भस्मम्,bhasm|bhasma,Calx|Incinerated ash,,,,,,user-seed
+dosage_form:pishti,DOSAGE_FORM,,piṣṭī,पिष्टी,,pishti,Levigated powder,,,,,,seed-v0
+dosage_form:arka,DOSAGE_FORM,,arka,अर्क,arkam,ark|अर्क,Distillate|Distilled extract,,,,yes,arka is also Calotropis and the sun,seed-v0
+dosage_form:svarasa,DOSAGE_FORM,,svarasa,स्वरस,svarasam,swaras,Fresh juice,,,,,,seed-v0
+dosage_form:kalka,DOSAGE_FORM,,kalka,कल्क,,kalk,Paste,,,,,,seed-v0
+dosage_form:phanta,DOSAGE_FORM,,phāṇṭa,फाण्ट,फांट,phant,Hot infusion,,,,,,seed-v0
+dosage_form:hima,DOSAGE_FORM,,hima kaṣāya,हिम कषाय,~hima|शीत कषाय|śīta kaṣāya,,Cold infusion,,,,,,seed-v0
+dosage_form:lepa,DOSAGE_FORM,,lepa,लेप,pralepa|प्रलेप|ālepa|आलेप,lep|लेप,Paste for external application,,,,,user listed लेप under treatments,user-seed
+dosage_form:varti,DOSAGE_FORM,,varti,वर्ति,vartikā|phalavarti|फलवर्ति,batti|बत्ती,Suppository|Wick,,,,,,seed-v0
+dosage_form:anjana,DOSAGE_FORM,,añjana,अञ्जन,अंजन,anjan|surma|सुरमा,Collyrium,,,,,,seed-v0
+dosage_form:kshara,DOSAGE_FORM,,kṣāra,क्षार,,kshar|क्षार,Alkali preparation,,,,,,seed-v0
+dosage_form:rasakriya,DOSAGE_FORM,,rasakriyā,रसक्रिया,,,Solid extract,,,,,,seed-v0
+dosage_form:guggulu_kalpa,DOSAGE_FORM,,guggulu kalpa,गुग्गुलु कल्प,,guggul kalp,Guggulu preparation,,,,,,seed-v0
+dosage_form:paka,DOSAGE_FORM,,pāka,पाक,khaṇḍa|खण्ड|khaṇḍapāka,pak|पाक,Confection,,,,yes,pāka also means digestion/cooking,seed-v0
+dosage_form:modaka,DOSAGE_FORM,,modaka,मोदक,laḍḍuka,laddu|लड्डू,Bolus|Laddu,,,,yes,,seed-v0

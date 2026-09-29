@@ -1,0 +1,45 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+anatomy:srotas,ANATOMY,srotas,srotas,स्रोतस्,स्रोतस|स्रोत|srotāṃsi|स्रोतांसि|srota,,Body channels,,,,,,seed-v0
+anatomy:pranavaha,ANATOMY,srotas,prāṇavaha srotas,प्राणवह स्रोतस्,प्राणवह स्रोत|prāṇavaha,,Respiratory channels,,,,,,seed-v0
+anatomy:annavaha,ANATOMY,srotas,annavaha srotas,अन्नवह स्रोतस्,अन्नवह स्रोत|annavaha,,Digestive channels,,,,,,seed-v0
+anatomy:udakavaha,ANATOMY,srotas,udakavaha srotas,उदकवह स्रोतस्,उदकवह स्रोत|udakavaha|ambuvaha,,Water-regulating channels,,,,,,seed-v0
+anatomy:rasavaha,ANATOMY,srotas,rasavaha srotas,रसवह स्रोतस्,रसवह स्रोत|rasavaha,,Plasma channels,,,,,,seed-v0
+anatomy:raktavaha,ANATOMY,srotas,raktavaha srotas,रक्तवह स्रोतस्,रक्तवह स्रोत|raktavaha,,Blood channels,,,,,,seed-v0
+anatomy:mamsavaha,ANATOMY,srotas,māṃsavaha srotas,मांसवह स्रोतस्,मांसवह स्रोत|māṃsavaha,,Muscle channels,,,,,,seed-v0
+anatomy:medovaha,ANATOMY,srotas,medovaha srotas,मेदोवह स्रोतस्,मेदोवह स्रोत|medovaha,,Fat channels,,,,,,seed-v0
+anatomy:asthivaha,ANATOMY,srotas,asthivaha srotas,अस्थिवह स्रोतस्,अस्थिवह स्रोत|asthivaha,,Bone channels,,,,,,seed-v0
+anatomy:majjavaha,ANATOMY,srotas,majjāvaha srotas,मज्जावह स्रोतस्,मज्जावह स्रोत|majjāvaha,,Marrow channels,,,,,,seed-v0
+anatomy:shukravaha,ANATOMY,srotas,śukravaha srotas,शुक्रवह स्रोतस्,शुक्रवह स्रोत|śukravaha,,Reproductive channels,,,,,,seed-v0
+anatomy:mutravaha,ANATOMY,srotas,mūtravaha srotas,मूत्रवह स्रोतस्,मूत्रवह स्रोत|mūtravaha,,Urinary channels,,,,,,seed-v0
+anatomy:purishavaha,ANATOMY,srotas,purīṣavaha srotas,पुरीषवह स्रोतस्,पुरीषवह स्रोत|purīṣavaha,,Faecal channels,,,,,,seed-v0
+anatomy:svedavaha,ANATOMY,srotas,svedavaha srotas,स्वेदवह स्रोतस्,स्वेदवह स्रोत|svedavaha,,Sweat channels,,,,,,seed-v0
+anatomy:artavavaha,ANATOMY,srotas,ārtavavaha srotas,आर्तववह स्रोतस्,आर्तववह स्रोत|ārtavavaha,,Menstrual channels,,,,,,seed-v0
+anatomy:stanyavaha,ANATOMY,srotas,stanyavaha srotas,स्तन्यवह स्रोतस्,स्तन्यवह स्रोत|stanyavaha,,Lactation channels,,,,,,seed-v0
+anatomy:manovaha,ANATOMY,srotas,manovaha srotas,मनोवह स्रोतस्,मनोवह स्रोत|manovaha,,Channels of the mind,,,,,,seed-v0
+anatomy:marma,ANATOMY,marma,marma,मर्म,मर्मन्|marman|marmāṇi|मर्माणि,marm,Vital points,,,,yes,Hindi मर्म also means essence,seed-v0
+anatomy:hridaya,ANATOMY,organ,hṛdaya,हृदय,hṛt|हृत्,~दिल|~dil,Heart,,,,,,seed-v0
+anatomy:yakrit,ANATOMY,organ,yakṛt,यकृत्,यकृत|kālakhaṇḍa|कालखण्ड,~जिगर|~jigar|लिवर|liver,Liver,,,,,,seed-v0
+anatomy:pliha,ANATOMY,organ,plīhā,प्लीहा,plīhan,तिल्ली|tilli,Spleen,,,,,,seed-v0
+anatomy:vrikka,ANATOMY,organ,vṛkka,वृक्क,vṛkkau|वृक्कौ,गुर्दा|gurda|किडनी|kidney,Kidney,,,,,,seed-v0
+anatomy:phuphphusa,ANATOMY,organ,phupphusa,फुफ्फुस,क्लोम|kloma,फेफड़े|phephde|fefde,Lungs,,,,,,seed-v0
+anatomy:amashaya,ANATOMY,organ,āmāśaya,आमाशय,,~पेट|अमाशय,Stomach,,,,,,seed-v0
+anatomy:pakvashaya,ANATOMY,organ,pakvāśaya,पक्वाशय,,बड़ी आंत,Large intestine|Colon,,,,,,seed-v0
+anatomy:koshtha,ANATOMY,,koṣṭha,कोष्ठ,,koshth,Gastrointestinal tract|Bowel nature,,,,,,seed-v0
+anatomy:tvak,ANATOMY,organ,tvacā,त्वचा,~tvak|~त्वक्|~त्वक,~त्वचा|tvacha|twacha,Skin,,,,,tvak also means cinnamon,user-seed
+anatomy:nadi,ANATOMY,,nāḍī,नाडी,नाड़ी,naadi|nadi|nabz|नब्ज,Pulse|Nerve channel,,,,yes,,seed-v0
+anatomy:sira,ANATOMY,,sirā,सिरा,,~नस|~nas,Vein|Blood vessel,,,,yes,Hindi सिरा also means end/edge,seed-v0
+anatomy:dhamani,ANATOMY,,dhamanī,धमनी,,dhamni,Artery,,,,,,seed-v0
+anatomy:snayu,ANATOMY,,snāyu,स्नायु,,snayu,Ligament|Sinew,,,,,,seed-v0
+anatomy:kandara,ANATOMY,,kaṇḍarā,कण्डरा,कंडरा,,Tendon,,,,,,seed-v0
+anatomy:peshi,ANATOMY,,peśī,पेशी,māṃsapeśī|मांसपेशी,मांसपेशी|mansapeshi,Muscle,,,,,,seed-v0
+anatomy:sandhi,ANATOMY,,sandhi,सन्धि,संधि,~जोड़|~jod,Joint,,,,yes,sandhi is also the grammatical term,seed-v0
+anatomy:shiras,ANATOMY,,śiras,शिरस्,शिर|uttamāṅga|उत्तमाङ्ग|mūrdhā|मूर्धा,~सिर|~sir,Head,,,,yes,,seed-v0
+anatomy:netra,ANATOMY,,netra,नेत्र,cakṣu|चक्षु|nayana|नयन|akṣi|अक्षि,~आंख|~आँख|~aankh,Eye,,,,,,seed-v0
+anatomy:karna,ANATOMY,,karṇa,कर्ण,śrotra|श्रोत्र,~कान|~kaan,Ear,,,,yes,,seed-v0
+anatomy:nasa,ANATOMY,,nāsā,नासा,nāsikā|नासिका|ghrāṇa|घ्राण,~नाक|~naak,Nose,,,,,,seed-v0
+anatomy:jihva,ANATOMY,,jihvā,जिह्वा,,~जीभ|~jeebh,Tongue,,,,,,seed-v0
+anatomy:kantha,ANATOMY,,kaṇṭha,कण्ठ,कंठ|~gala|~गल,~गला|~gala,Throat,,,,yes,,seed-v0
+anatomy:udara,ANATOMY,,udara,उदर,,~pet|~पेट,Abdomen,,,,yes,,seed-v0
+anatomy:basti_bladder,ANATOMY,organ,mūtrāśaya,मूत्राशय,~basti|~बस्ति,मूत्राशय|bladder,Urinary bladder,,,,,,seed-v0
+anatomy:garbhashaya,ANATOMY,organ,garbhāśaya,गर्भाशय,,बच्चेदानी|bachchedani|uterus,Uterus,,,,,,seed-v0
+anatomy:mastishka,ANATOMY,organ,mastiṣka,मस्तिष्क,mastuluṅga|मस्तुलुङ्ग,~दिमाग|~dimag,Brain,,,,,,seed-v0

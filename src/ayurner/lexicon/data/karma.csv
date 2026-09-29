@@ -1,0 +1,39 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+karma:dipana,KARMA,,dīpana,दीपन,दीपनीय|dīpanīya,deepan|दीपन,Appetiser|Stimulates digestive fire,,,,,,user-seed
+karma:pacana,KARMA,,pācana,पाचन,पाचनीय,pachan|पाचक औषध,Digestive,,,,,Hindi पाचन also means digestion,user-seed
+karma:anulomana,KARMA,,anulomana,अनुलोमन,vātānulomana|वातानुलोमन,anuloman,Carminative|Promotes downward movement,,,,,,user-seed
+karma:rasayana,KARMA,,rasāyana,रसायन,रसायनम्,rasayan,Rejuvenation|Rejuvenative,,,,yes,Hindi रसायन also means chemical,user-seed
+karma:vajikarana,KARMA,,vājīkaraṇa,वाजीकरण,vṛṣya|वृष्य|वाजीकर,vajikaran,Aphrodisiac,,,,,,user-seed
+karma:brimhana,KARMA,,bṛṃhaṇa,बृंहण,बृंहणीय,brinhan,Nourishing|Bulk-promoting,,,,,,seed-v0
+karma:stambhana,KARMA,,stambhana,स्तम्भन,स्तंभन|saṅgrāhī|सङ्ग्राही,stambhan,Astringent|Styptic,,,,,,seed-v0
+karma:grahi,KARMA,,grāhī,ग्राही,,grahi,Absorbent|Antidiarrhoeal,,,,,,seed-v0
+karma:bhedana,KARMA,,bhedana,भेदन,,bhedan,Purgative (drastic),,,,,,seed-v0
+karma:recana,KARMA,,recana,रेचन,रेचक|recaka,rechak|दस्तावर|dastavar,Laxative|Purgative,,,,,,seed-v0
+karma:medhya,KARMA,,medhya,मेध्य,मेधावर्धक|medhāvardhaka,medhya,Nootropic|Intellect-promoting,,,,,,seed-v0
+karma:hridya,KARMA,,hṛdya,हृद्य,,hridya,Cardiotonic,,,,,,seed-v0
+karma:balya,KARMA,,balya,बल्य,,balya,Strength-promoting,,,,,,seed-v0
+karma:jivaniya,KARMA,,jīvanīya,जीवनीय,,jivaniya,Vitalizer,,,,,,seed-v0
+karma:krimighna,KARMA,,kṛmighna,कृमिघ्न,kṛmihara|कृमिहर,krimighna,Anthelmintic,,,,,,seed-v0
+karma:kushthaghna,KARMA,,kuṣṭhaghna,कुष्ठघ्न,,kushthaghna,Anti-dermatosis,,,,,,seed-v0
+karma:jvaraghna,KARMA,,jvaraghna,ज्वरघ्न,jvarahara|ज्वरहर,jwarghna,Antipyretic,,,,,,seed-v0
+karma:shothahara,KARMA,,śothahara,शोथहर,śothaghna|शोथघ्न,shothhar,Anti-inflammatory|Anti-oedematous,,,,,,seed-v0
+karma:vedanasthapana,KARMA,,vedanāsthāpana,वेदनास्थापन,वेदनाहर|vedanāhara,vednasthapan,Analgesic,,,,,,seed-v0
+karma:mutrala,KARMA,,mūtrala,मूत्रल,,mutral,Diuretic,,,,,,seed-v0
+karma:kasahara,KARMA,,kāsahara,कासहर,kāsaghna|कासघ्न,kasahar,Antitussive,,,,,,seed-v0
+karma:shvasahara,KARMA,,śvāsahara,श्वासहर,,shwasahar,Anti-asthmatic,,,,,,seed-v0
+karma:kaphaghna,KARMA,,kaphaghna,कफघ्न,kaphahara|कफहर|śleṣmaghna,kaphaghna,Kapha-pacifying,,,,,,seed-v0
+karma:vatahara,KARMA,,vātahara,वातहर,vātaghna|वातघ्न|vātaśāmaka|वातशामक,vatahar,Vata-pacifying,,,,,,seed-v0
+karma:pittahara,KARMA,,pittahara,पित्तहर,pittaghna|pittaśāmaka|पित्तशामक,pittahar,Pitta-pacifying,,,,,,seed-v0
+karma:tridoshahara,KARMA,,tridoṣahara,त्रिदोषहर,tridoṣaśāmaka|त्रिदोषशामक,tridoshahar,Pacifies all three doshas,,,,,,seed-v0
+karma:varnya,KARMA,,varṇya,वर्ण्य,,varnya,Complexion-promoting,,,,,,seed-v0
+karma:keshya,KARMA,,keśya,केश्य,,keshya,Hair tonic,,,,,,seed-v0
+karma:cakshushya,KARMA,,cakṣuṣya,चक्षुष्य,,chakshushya,Good for the eyes,,,,,,seed-v0
+karma:lekhana,KARMA,,lekhana,लेखन,lekhanīya|लेखनीय,lekhan,Scraping|Anti-obesity,,,,yes,Hindi लेखन means writing,seed-v0
+karma:chedana,KARMA,,chedana,छेदन,,chhedan,Expectorant (breaks up kapha),,,,,,seed-v0
+karma:raktashodhaka,KARMA,,raktaśodhaka,रक्तशोधक,raktaprasādana|रक्तप्रसादन,raktashodhak|khoon saaf,Blood purifier,,,,,,seed-v0
+karma:stanyajanana,KARMA,,stanyajanana,स्तन्यजनन,,stanyajanan,Galactagogue,,,,,,seed-v0
+karma:artavajanana,KARMA,,ārtavajanana,आर्तवजनन,,artavajanan,Emmenagogue,,,,,,seed-v0
+karma:sandhaniya,KARMA,,sandhānīya,सन्धानीय,संधानीय,sandhaniya,Union-promoting|Healing,,,,,,seed-v0
+karma:vranaropana,KARMA,,vraṇaropaṇa,व्रणरोपण,,vranropan|ghav bharna,Wound healing,,,,,,seed-v0
+karma:vishaghna,KARMA,,viṣaghna,विषघ्न,,vishaghna,Antitoxic,,,,,,seed-v0
+karma:ama_pacana,KARMA,,āmapācana,आमपाचन,,aampachan,Digests ama (toxins),,,,,,seed-v0

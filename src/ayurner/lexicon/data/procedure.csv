@@ -1,0 +1,41 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+procedure:panchakarma,PROCEDURE,shodhana,pañcakarma,पञ्चकर्म,पंचकर्म|pañcakarman,panchkarma|panchakarma|पंचकर्म चिकित्सा,Panchakarma|Five purification therapies,,,,,,user-seed
+procedure:vamana,PROCEDURE,panchakarma,vamana,वमन,vamanakarma|वमनकर्म,vaman,Therapeutic emesis,,,,,,user-seed
+procedure:virecana,PROCEDURE,panchakarma,virecana,विरेचन,virecanakarma|विरेचनकर्म,virechan,Therapeutic purgation,,,,,,user-seed
+procedure:basti,PROCEDURE,panchakarma,basti,बस्ति,vasti|वस्ति|bastikarma|बस्तिकर्म,एनिमा|enema|basti karma,Medicated enema,,,,yes,बस्ति is also the urinary bladder; Hindi बस्ती means settlement,user-seed
+procedure:anuvasana_basti,PROCEDURE,panchakarma,anuvāsana basti,अनुवासन बस्ति,sneha basti|स्नेह बस्ति,anuvasan basti,Oil enema,,,,,,seed-v0
+procedure:niruha_basti,PROCEDURE,panchakarma,nirūha basti,निरूह बस्ति,āsthāpana basti|आस्थापन बस्ति|kaṣāya basti,niruh basti,Decoction enema,,,,,,seed-v0
+procedure:uttara_basti,PROCEDURE,panchakarma,uttara basti,उत्तर बस्ति,,uttar basti,Urethral / vaginal instillation,,,,,,seed-v0
+procedure:nasya,PROCEDURE,panchakarma,nasya,नस्य,nāvana|नावन|śirovirecana|शिरोविरेचन,nasya|naak mein dawa,Nasal medication|Errhine therapy,,,,,,user-seed
+procedure:raktamokshana,PROCEDURE,panchakarma,raktamokṣaṇa,रक्तमोक्षण,raktasrāva|रक्तस्राव चिकित्सा,raktamokshan|bloodletting,Bloodletting,,,,,,user-seed
+procedure:jalaukavacarana,PROCEDURE,raktamokshana,jalaukāvacaraṇa,जलौकावचरण,jalaukā|जलौका,जोंक चिकित्सा|jonk therapy|leech therapy,Leech therapy,,,,,,seed-v0
+procedure:purvakarma,PROCEDURE,phase,pūrvakarma,पूर्वकर्म,पूर्व कर्म,poorvakarma|purvakarma,Preparatory procedures,,,,,user list spelled पूर्वकरम,user-seed
+procedure:pradhanakarma,PROCEDURE,phase,pradhānakarma,प्रधानकर्म,,pradhankarma,Main procedure,,,,,,seed-v0
+procedure:pashcatkarma,PROCEDURE,phase,paścātkarma,पश्चात्कर्म,पश्चात कर्म,pashchatkarma,Post-procedure care,,,,,,seed-v0
+procedure:snehana,PROCEDURE,purvakarma,snehana,स्नेहन,snehakarma|स्नेहकर्म|snehapāna|स्नेहपान,snehan,Oleation,,,,,,user-seed
+procedure:abhyanga,PROCEDURE,purvakarma,abhyaṅga,अभ्यङ्ग,अभ्यंग|mardana|मर्दन,मालिश|malish|maalish|tel malish|massage,Oil massage|Massage,,,,,user list paired मालिश/Massage with snehana,user-seed
+procedure:svedana,PROCEDURE,purvakarma,svedana,स्वेदन,svedakarma|स्वेदकर्म|sveda-karma,~भाप|भाप देना|~bhaap|swedan|~steam,Sudation|Fomentation|Steam therapy,,,,,,user-seed
+procedure:pinda_sveda,PROCEDURE,svedana,piṇḍa sveda,पिण्ड स्वेद,पिंड स्वेद|patra piṇḍa sveda|ṣaṣṭikaśāli piṇḍa sveda,potli massage|kizhi,Bolus fomentation,,,,,,seed-v0
+procedure:shirodhara,PROCEDURE,murdhataila,śirodhārā,शिरोधारा,,shirodhara,Shirodhara|Oil stream on the forehead,,,,,,user-seed
+procedure:takradhara,PROCEDURE,murdhataila,takradhārā,तक्रधारा,,takradhara,Buttermilk stream therapy,,,,,,user-seed
+procedure:shirobasti,PROCEDURE,murdhataila,śirobasti,शिरोबस्ति,,shirobasti,Oil pooling on the head,,,,,,seed-v0
+procedure:katibasti,PROCEDURE,bahya,kaṭibasti,कटिबस्ति,,katibasti|kati basti,Oil pooling on the lower back,,,,,,seed-v0
+procedure:janubasti,PROCEDURE,bahya,jānubasti,जानुबस्ति,,janu basti,Oil pooling on the knee,,,,,,seed-v0
+procedure:greevabasti,PROCEDURE,bahya,grīvābasti,ग्रीवाबस्ति,,greeva basti,Oil pooling on the neck,,,,,,seed-v0
+procedure:akshitarpana,PROCEDURE,netra,akṣitarpaṇa,अक्षितर्पण,netratarpaṇa|नेत्रतर्पण,netra tarpan,Eye nourishing therapy,,,,,,seed-v0
+procedure:karnapurana,PROCEDURE,,karṇapūraṇa,कर्णपूरण,,karnapuran|kaan mein tel,Ear oil instillation,,,,,,seed-v0
+procedure:udvartana,PROCEDURE,bahya,udvartana,उद्वर्तन,udgharṣaṇa|उद्घर्षण,udvartan|ubtan|उबटन,Powder massage,,,,,,user-seed
+procedure:gandusha,PROCEDURE,mukha,gaṇḍūṣa,गण्डूष,गंडूष,gandush|kulla|कुल्ला|oil pulling,Gargling|Oil pulling,,,,,,user-seed
+procedure:kavala,PROCEDURE,mukha,kavala,कवल,kavalagraha|कवलग्रह,kaval,Medicated mouth swishing,,,,,,user-seed
+procedure:dhumapana,PROCEDURE,,dhūmapāna,धूमपान,,dhumpan,Medicated smoking,,,,,धूम्रपान (tobacco smoking) is a different word,user-seed
+procedure:upanaha,PROCEDURE,bahya,upanāha,उपनाह,upanāha sveda|उपनाह स्वेद,upnah|poultice,Poultice,,,,,,user-seed
+procedure:pichu,PROCEDURE,bahya,picu,पिचु,,pichu,Oil-soaked cotton pad,,,,,,seed-v0
+procedure:samsarjana_krama,PROCEDURE,paschatkarma,saṃsarjana krama,संसर्जन क्रम,संसर्जनक्रम|peyādi krama|पेयादि क्रम,sansarjan kram,Graduated diet after purification,,,,,,user-seed
+procedure:shodhana,PROCEDURE,therapy,śodhana,शोधन,शोधन चिकित्सा|saṃśodhana|संशोधन,shodhan,Purification therapy|Detoxification,,,,,also the purification of raw drugs in rasaśāstra,user-seed
+procedure:shamana,PROCEDURE,therapy,śamana,शमन,शमन चिकित्सा|saṃśamana|संशमन,shaman chikitsa,Palliative therapy,,,,,,user-seed
+procedure:langhana,PROCEDURE,upakrama,laṅghana,लङ्घन,लंघन|apatarpaṇa|अपतर्पण,langhan|~upvas|~उपवास,Lightening therapy|Fasting,,,,,,seed-v0
+procedure:brimhana_therapy,PROCEDURE,upakrama,bṛṃhaṇa cikitsā,बृंहण चिकित्सा,santarpaṇa|सन्तर्पण,,Nourishing therapy,,,,,,seed-v0
+procedure:ksharasutra,PROCEDURE,shastra,kṣārasūtra,क्षारसूत्र,,ksharsutra|kshar sutra,Medicated caustic thread,,,,,,seed-v0
+procedure:agnikarma,PROCEDURE,shastra,agnikarma,अग्निकर्म,,agnikarm,Therapeutic heat cauterisation,,,,,,seed-v0
+procedure:marma_cikitsa,PROCEDURE,,marma cikitsā,मर्म चिकित्सा,marma therapy,marma chikitsa,Marma therapy,,,,,,seed-v0
+procedure:rasayana_cikitsa,PROCEDURE,therapy,rasāyana cikitsā,रसायन चिकित्सा,रसायन तन्त्र,rasayan chikitsa,Rejuvenation therapy,,,,,,seed-v0

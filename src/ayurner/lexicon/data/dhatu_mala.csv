@@ -1,0 +1,18 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+dhatu:dhatu,DHATU,generic,dhātu,धातु,dhātavaḥ|धातवः|saptadhātu|सप्तधातु,dhatu,Body tissue,,,,yes,Hindi धातु also means metal,user-seed
+dhatu:rasa,DHATU,,rasa dhātu,रस धातु,रसधातु|~rasa|~रस,ras dhatu,Plasma|Lymph,,,,,bare rasa is also taste and mercury,user-seed
+dhatu:rakta,DHATU,,rakta dhātu,रक्त धातु,रक्तधातु|rakta|रक्त|asṛk|असृक्|śoṇita|शोणित|lohita,~खून|~khoon|rakt|rakt dhatu,Blood,,,,,,user-seed
+dhatu:mamsa,DHATU,,māṃsa dhātu,मांस धातु,मांसधातु|māṃsa|मांस,mans|mansa dhatu,Muscle tissue,,,,,,user-seed
+dhatu:meda,DHATU,,medas,मेदस्,मेद|meda|मेद धातु|meda dhātu|मेदोधातु,med dhatu|charbi|चर्बी,Adipose tissue|Fat,,,,,,user-seed
+dhatu:asthi,DHATU,,asthi dhātu,अस्थि धातु,अस्थिधातु|asthi|अस्थि,हड्डी|haddi,Bone,,,,,,user-seed
+dhatu:majja,DHATU,,majjā dhātu,मज्जा धातु,मज्जाधातु|majjā|मज्जा,majja,Bone marrow,,,,,,user-seed
+dhatu:shukra,DHATU,,śukra dhātu,शुक्र धातु,शुक्रधातु|~śukra|~शुक्र|retas|रेतस्,shukra dhatu|virya dhatu,Semen|Reproductive tissue,,,,,bare śukra also means Venus/Friday; vīrya omitted (potency),user-seed
+dhatu:ojas,DHATU,essence,ojas,ओजस्,ओजस|ओज|oja,oj|ojas,Vital essence,,,,,,user-seed
+dhatu:upadhatu,DHATU,upadhatu,upadhātu,उपधातु,upadhātavaḥ,updhatu|upadhatu,Secondary tissue,,,,,user list had उपदोष labelled Upadhatu; उपधातु is correct,user-seed
+dhatu:stanya,DHATU,upadhatu,stanya,स्तन्य,stanyam,स्तन दूध|breast milk,Breast milk,,,,,,seed-v0
+dhatu:artava,DHATU,upadhatu,ārtava,आर्तव,ārtavam,मासिक धर्म|masik dharm|माहवारी|mahwari,Menstrual fluid|Menses,,,,,,seed-v0
+mala:mala,MALA,generic,mala,मल,malāḥ|मलाः|trimala|त्रिमल,,Waste products,,,,yes,Hindi मल is stool; romanized mala also = garland,user-seed
+mala:purisha,MALA,,purīṣa,पुरीष,शकृत्|śakṛt|varcas|वर्चस्,टट्टी|stool,Faeces|Stool,,,,,,user-seed
+mala:mutra,MALA,,mūtra,मूत्र,मूत्रम्,पेशाब|peshab|pishab,Urine,,,,,,user-seed
+mala:sveda,MALA,,sveda,स्वेद,स्वेदः,पसीना|pasina|paseena,Sweat,,,,,,user-seed
+mala:kitta,MALA,,kiṭṭa,किट्ट,kiṭṭam,,Metabolic waste,,,,yes,,seed-v0

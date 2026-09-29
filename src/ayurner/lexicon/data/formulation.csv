@@ -1,0 +1,94 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+formulation:triphala,FORMULATION,gana,triphalā,त्रिफला,phalatrika|फलत्रिक,triphala|trifala,Three myrobalans,āmalakī + vibhītaka + harītakī,,,,,user-seed
+formulation:trikatu,FORMULATION,gana,trikaṭu,त्रिकटु,vyoṣa|व्योष|kaṭutraya|कटुत्रय,trikatu|trikut,Three pungents,śuṇṭhī + marica + pippalī,,,,,user-seed
+formulation:dashamula,FORMULATION,gana,daśamūla,दशमूल,दशमूलम्,दशमूल|dashmool|dashmul|dashamool,Ten roots,laghu pañcamūla + bṛhat pañcamūla,,,,,user-seed
+formulation:pancakola,FORMULATION,gana,pañcakola,पञ्चकोल,पंचकोल,panchkol,Five pungents,,,,,,seed-v0
+formulation:trijataka,FORMULATION,gana,trijātaka,त्रिजातक,trisugandhi|त्रिसुगन्धि,,Three aromatics,tvak + elā + tejapatra,,,,,seed-v0
+formulation:caturjataka,FORMULATION,gana,caturjātaka,चतुर्जातक,,,Four aromatics,,,,,,seed-v0
+formulation:laghu_pancamula,FORMULATION,gana,laghu pañcamūla,लघु पञ्चमूल,लघुपञ्चमूल|kanīyas pañcamūla,laghu panchmool,Five minor roots,,,,,,seed-v0
+formulation:brihat_pancamula,FORMULATION,gana,bṛhat pañcamūla,बृहत् पञ्चमूल,बृहत्पञ्चमूल|mahat pañcamūla,brihat panchmool,Five major roots,,,,,,seed-v0
+formulation:cyavanaprasha,FORMULATION,avaleha,cyavanaprāśa,च्यवनप्राश,च्यवनप्राशावलेह|cyavanaprāśāvaleha,chyawanprash|chyavanprash|chyawanprash avaleha,Chyawanprash,,,,,,seed-v0
+formulation:brahma_rasayana,FORMULATION,avaleha,brāhma rasāyana,ब्राह्म रसायन,,brahma rasayan,,,,,,,seed-v0
+formulation:agastya_haritaki,FORMULATION,avaleha,agastya harītakī rasāyana,अगस्त्य हरीतकी रसायन,agastya harītakī|अगस्त्य हरीतकी|agastyaharītakī,agastya haritaki,,,,,,,seed-v0
+formulation:vasavaleha,FORMULATION,avaleha,vāsāvaleha,वासावलेह,vāsā avaleha,vasavaleh,,,,,,,seed-v0
+formulation:kushmanda_rasayana,FORMULATION,avaleha,kūṣmāṇḍa rasāyana,कूष्माण्ड रसायन,kūṣmāṇḍāvaleha|कूष्माण्डावलेह,kushmand rasayan|petha pak,,,,,,,seed-v0
+formulation:sitopaladi,FORMULATION,curna,sitopalādi cūrṇa,सितोपलादि चूर्ण,sitopalādi|सितोपलादि,sitopaladi churna|sitopaladi churan,,,,,,,seed-v0
+formulation:talisadi,FORMULATION,curna,tālīsādi cūrṇa,तालीसादि चूर्ण,tālīsādi|तालीसादि,talisadi churna,,,,,,,seed-v0
+formulation:avipattikara,FORMULATION,curna,avipattikara cūrṇa,अविपत्तिकर चूर्ण,avipattikara|अविपत्तिकर,avipattikar churna|avipattikar,,,,,,,seed-v0
+formulation:hingvashtaka,FORMULATION,curna,hiṅgvaṣṭaka cūrṇa,हिङ्ग्वष्टक चूर्ण,hiṅgvaṣṭaka|हिंग्वष्टक|हिंग्वाष्टक,hingvashtak churna|hingwashtak churna,,,,,,,seed-v0
+formulation:lavanabhaskara,FORMULATION,curna,lavaṇabhāskara cūrṇa,लवणभास्कर चूर्ण,lavaṇabhāskara|लवणभास्कर,lavan bhaskar churna,,,,,,,seed-v0
+formulation:sudarshana,FORMULATION,curna,sudarśana cūrṇa,सुदर्शन चूर्ण,mahāsudarśana cūrṇa|महासुदर्शन चूर्ण,sudarshan churna|mahasudarshan churna,,,,,,,seed-v0
+formulation:pushyanuga,FORMULATION,curna,puṣyānuga cūrṇa,पुष्यानुग चूर्ण,puṣyānuga|पुष्यानुग,pushyanug churna,,,,,,,seed-v0
+formulation:pancasakara,FORMULATION,curna,pañcasakāra cūrṇa,पञ्चसकार चूर्ण,पंचसकार चूर्ण,panchsakar churna,,,,,,,seed-v0
+formulation:yogaraja_guggulu,FORMULATION,guggulu,yogarāja guggulu,योगराज गुग्गुलु,योगराज गुग्गुल,yograj guggul|yogaraj guggulu,,,,,,,seed-v0
+formulation:mahayogaraja_guggulu,FORMULATION,guggulu,mahāyogarāja guggulu,महायोगराज गुग्गुलु,महायोगराज गुग्गुल,mahayograj guggul,,,,,,,seed-v0
+formulation:kaishora_guggulu,FORMULATION,guggulu,kaiśora guggulu,कैशोर गुग्गुलु,कैशोर गुग्गुल,kaishore guggul|kaishor guggul,,,,,,,seed-v0
+formulation:triphala_guggulu,FORMULATION,guggulu,triphalā guggulu,त्रिफला गुग्गुलु,त्रिफला गुग्गुल,triphala guggul,,,,,,,seed-v0
+formulation:gokshuradi_guggulu,FORMULATION,guggulu,gokṣurādi guggulu,गोक्षुरादि गुग्गुलु,गोक्षुरादि गुग्गुल,gokshuradi guggul,,,,,,,seed-v0
+formulation:kancanara_guggulu,FORMULATION,guggulu,kāñcanāra guggulu,काञ्चनार गुग्गुलु,कांचनार गुग्गुलु|कांचनार गुग्गुल,kanchnar guggul,,,,,,,seed-v0
+formulation:simhanada_guggulu,FORMULATION,guggulu,siṃhanāda guggulu,सिंहनाद गुग्गुलु,सिंहनाद गुग्गुल,sinhnad guggul|simhanad guggul,,,,,,,seed-v0
+formulation:lakshadi_guggulu,FORMULATION,guggulu,lākṣādi guggulu,लाक्षादि गुग्गुलु,लाक्षादि गुग्गुल,lakshadi guggul,,,,,,,seed-v0
+formulation:arogyavardhini,FORMULATION,vati,ārogyavardhinī vaṭī,आरोग्यवर्धिनी वटी,ārogyavardhinī|आरोग्यवर्धिनी|ārogyavardhinī guṭikā,arogyavardhini vati|arogyavardhini bati,,,,,,,seed-v0
+formulation:candraprabha,FORMULATION,vati,candraprabhā vaṭī,चन्द्रप्रभा वटी,candraprabhā|चन्द्रप्रभा|चंद्रप्रभा वटी,chandraprabha vati|chandraprabha bati,,,,,,,seed-v0
+formulation:samshamani,FORMULATION,vati,saṃśamanī vaṭī,संशमनी वटी,saṃśamanī|संशमनी,sanshamani vati|samshamani vati,,,,,,,seed-v0
+formulation:citrakadi,FORMULATION,vati,citrakādi vaṭī,चित्रकादि वटी,citrakādi guṭikā|चित्रकादि,chitrakadi vati,,,,,,,seed-v0
+formulation:kankayana,FORMULATION,vati,kāṅkāyana vaṭī,काङ्कायन वटी,kāṅkāyana guṭikā|कांकायन वटी,kankayan vati,,,,,,,seed-v0
+formulation:lashunadi,FORMULATION,vati,laśunādi vaṭī,लशुनादि वटी,लशुनादि,lashunadi vati,,,,,,,seed-v0
+formulation:khadiradi,FORMULATION,vati,khadirādi vaṭī,खदिरादि वटी,खदिरादि गुटिका,khadiradi vati,,,,,,,seed-v0
+formulation:vyoshadi,FORMULATION,vati,vyoṣādi vaṭī,व्योषादि वटी,व्योषादि,vyoshadi vati,,,,,,,seed-v0
+formulation:agnitundi,FORMULATION,vati,agnituṇḍī vaṭī,अग्नितुण्डी वटी,अग्नितुंडी वटी,agnitundi vati,,,,,,,seed-v0
+formulation:sanjivani,FORMULATION,vati,sañjīvanī vaṭī,सञ्जीवनी वटी,संजीवनी वटी,sanjivani vati|sanjeevani vati,,,,,,,seed-v0
+formulation:mahashankha_vati,FORMULATION,vati,mahāśaṅkha vaṭī,महाशङ्ख वटी,महाशंख वटी|śaṅkha vaṭī|शंख वटी,shankh vati|mahashankh vati,,,,,,,seed-v0
+formulation:ashokarishta,FORMULATION,arishta,aśokāriṣṭa,अशोकारिष्ट,अशोकारिष्टम्,ashokarishta|ashokarisht,,,,,,,seed-v0
+formulation:dashamularishta,FORMULATION,arishta,daśamūlāriṣṭa,दशमूलारिष्ट,दशमूलारिष्टम्,dashmularishta|dashamoolarishta|dashmoolarishta,,,,,,,seed-v0
+formulation:arjunarishta,FORMULATION,arishta,arjunāriṣṭa,अर्जुनारिष्ट,pārthādyariṣṭa|पार्थाद्यरिष्ट,arjunarishta,,,,,,,seed-v0
+formulation:abhayarishta,FORMULATION,arishta,abhayāriṣṭa,अभयारिष्ट,,abhayarishta,,,,,,,seed-v0
+formulation:kumaryasava,FORMULATION,asava,kumāryāsava,कुमार्यासव,कुमारी आसव,kumaryasava|kumari asava,,,,,,,seed-v0
+formulation:drakshasava,FORMULATION,asava,drākṣāsava,द्राक्षासव,,drakshasava,,,,,,,seed-v0
+formulation:sarasvatarishta,FORMULATION,arishta,sārasvatāriṣṭa,सारस्वतारिष्ट,,saraswatarishta|sarasvatarishta,,,,,,,seed-v0
+formulation:ashvagandharishta,FORMULATION,arishta,aśvagandhāriṣṭa,अश्वगन्धारिष्ट,अश्वगंधारिष्ट,ashwagandharishta,,,,,,,seed-v0
+formulation:kutajarishta,FORMULATION,arishta,kuṭajāriṣṭa,कुटजारिष्ट,,kutajarishta,,,,,,,seed-v0
+formulation:lohasava,FORMULATION,asava,lohāsava,लोहासव,,lohasava,,,,,,,seed-v0
+formulation:punarnavasava,FORMULATION,asava,punarnavāsava,पुनर्नवासव,,punarnavasava,,,,,,,seed-v0
+formulation:khadirarishta,FORMULATION,arishta,khadirāriṣṭa,खदिरारिष्ट,,khadirarishta,,,,,,,seed-v0
+formulation:amritarishta,FORMULATION,arishta,amṛtāriṣṭa,अमृतारिष्ट,,amritarishta,,,,,,,seed-v0
+formulation:balarishta,FORMULATION,arishta,balāriṣṭa,बलारिष्ट,,balarishta,,,,,,,seed-v0
+formulation:brahmi_ghrita,FORMULATION,ghrita,brāhmī ghṛta,ब्राह्मी घृत,,brahmi ghrit|brahmi ghee,,,,,,,seed-v0
+formulation:mahatiktaka_ghrita,FORMULATION,ghrita,mahātiktaka ghṛta,महातिक्तक घृत,mahātiktaka|महातिक्तक,mahatiktak ghrit,,,,,,,seed-v0
+formulation:pancatikta_ghrita,FORMULATION,ghrita,pañcatikta ghṛta,पञ्चतिक्त घृत,पंचतिक्त घृत,panchtikta ghrit,,,,,,,seed-v0
+formulation:pancatikta_guggulu_ghrita,FORMULATION,ghrita,pañcatikta guggulu ghṛta,पञ्चतिक्त गुग्गुलु घृत,पंचतिक्त गुग्गुल घृत,panchtikta guggul ghrit,,,,,,,seed-v0
+formulation:kalyanaka_ghrita,FORMULATION,ghrita,kalyāṇaka ghṛta,कल्याणक घृत,कल्याणक,kalyanak ghrit,,,,,,,seed-v0
+formulation:phala_ghrita,FORMULATION,ghrita,phala ghṛta,फल घृत,,phal ghrit,,,,,,,seed-v0
+formulation:jatyadi_ghrita,FORMULATION,ghrita,jātyādi ghṛta,जात्यादि घृत,,jatyadi ghrit,,,,,,,seed-v0
+formulation:mahanarayana_taila,FORMULATION,taila,mahānārāyaṇa taila,महानारायण तैल,महानारायण तेल,mahanarayan tel|mahanarayan oil|mahanarayan taila,,,,,,,seed-v0
+formulation:narayana_taila,FORMULATION,taila,nārāyaṇa taila,नारायण तैल,नारायण तेल,narayan tel|narayan oil,,,,,,,seed-v0
+formulation:kshirabala_taila,FORMULATION,taila,kṣīrabalā taila,क्षीरबला तैल,क्षीरबला,ksheerbala tel|ksheerabala taila,,,,,,,seed-v0
+formulation:anu_taila,FORMULATION,taila,aṇu taila,अणु तैल,अणु तेल,anu tel|anu oil,,,,,,,seed-v0
+formulation:bhringaraja_taila,FORMULATION,taila,bhṛṅgarāja taila,भृङ्गराज तैल,भृंगराज तेल,bhringraj tel|bhringraj oil,,,,,,,seed-v0
+formulation:mahamasha_taila,FORMULATION,taila,mahāmāṣa taila,महामाष तैल,,mahamash tel,,,,,,,seed-v0
+formulation:pinda_taila,FORMULATION,taila,piṇḍa taila,पिण्ड तैल,पिंड तेल,pinda tel,,,,,,,seed-v0
+formulation:nilibhringadi_taila,FORMULATION,taila,nīlībhṛṅgādi taila,नीलीभृङ्गादि तैल,नीलीभृंगादि तेल,neelibhringadi tel,,,,,,,seed-v0
+formulation:dhanvantara_taila,FORMULATION,taila,dhanvantara taila,धन्वन्तर तैल,धन्वंतर तेल,dhanwantaram tailam|dhanvantaram taila,,,,,,,seed-v0
+formulation:bala_taila,FORMULATION,taila,balā taila,बला तैल,balāśvagandhādi taila|बलाश्वगन्धादि तैल,bala tel|bala ashwagandhadi tel,,,,,,,seed-v0
+formulation:rasnasaptaka_kvatha,FORMULATION,kvatha,rāsnāsaptaka kvātha,रास्नासप्तक क्वाथ,रास्नासप्तक कषाय,rasnasaptak kwath,,,,,,,seed-v0
+formulation:maharasnadi_kvatha,FORMULATION,kvatha,mahārāsnādi kvātha,महारास्नादि क्वाथ,महारास्नादि कषाय|mahārāsnādi,maharasnadi kwath|maharasnadi kashayam,,,,,,,seed-v0
+formulation:pathyadi_kvatha,FORMULATION,kvatha,pathyādi kvātha,पथ्यादि क्वाथ,pathyādi|पथ्यादि,pathyadi kwath|pathyadi kadha,,,,,,,seed-v0
+formulation:phalatrikadi_kvatha,FORMULATION,kvatha,phalatrikādi kvātha,फलत्रिकादि क्वाथ,,phalatrikadi kwath,,,,,,,seed-v0
+formulation:gandharvahastadi_kvatha,FORMULATION,kvatha,gandharvahastādi kvātha,गन्धर्वहस्तादि क्वाथ,,gandharvahastadi kashayam,,,,,,,seed-v0
+formulation:sutashekhara_rasa,FORMULATION,rasa,sūtaśekhara rasa,सूतशेखर रस,सूतशेखर,sutshekhar ras,,,,,,,seed-v0
+formulation:lakshmivilasa_rasa,FORMULATION,rasa,lakṣmīvilāsa rasa,लक्ष्मीविलास रस,,laxmivilas ras|lakshmivilas ras,,,,,,,seed-v0
+formulation:tribhuvanakirti_rasa,FORMULATION,rasa,tribhuvanakīrti rasa,त्रिभुवनकीर्ति रस,,tribhuvan kirti ras,,,,,,,seed-v0
+formulation:icchabhedi_rasa,FORMULATION,rasa,icchābhedī rasa,इच्छाभेदी रस,,ichchhabhedi ras,,,,,,,seed-v0
+formulation:kamadudha_rasa,FORMULATION,rasa,kāmadudhā rasa,कामदुधा रस,,kamdudha ras,,,,,,,seed-v0
+formulation:mrityunjaya_rasa,FORMULATION,rasa,mṛtyuñjaya rasa,मृत्युञ्जय रस,मृत्युंजय रस,mrityunjay ras,,,,,,,seed-v0
+formulation:vasantakusumakara_rasa,FORMULATION,rasa,vasantakusumākara rasa,वसन्तकुसुमाकर रस,वसंतकुसुमाकर रस,vasant kusumakar ras,,,,,,,seed-v0
+formulation:vatacintamani_rasa,FORMULATION,rasa,bṛhat vātacintāmaṇi rasa,बृहत् वातचिन्तामणि रस,वातचिन्तामणि रस|vātacintāmaṇi rasa,vatchintamani ras|brihat vatchintamani ras,,,,,,,seed-v0
+formulation:smritisagara_rasa,FORMULATION,rasa,smṛtisāgara rasa,स्मृतिसागर रस,,smritisagar ras,,,,,,,seed-v0
+formulation:abhraka_bhasma,FORMULATION,bhasma,abhraka bhasma,अभ्रक भस्म,,abhrak bhasma,,,,,,,seed-v0
+formulation:shankha_bhasma,FORMULATION,bhasma,śaṅkha bhasma,शङ्ख भस्म,शंख भस्म,shankh bhasma,,,,,,,seed-v0
+formulation:godanti_bhasma,FORMULATION,bhasma,godantī bhasma,गोदन्ती भस्म,गोदंती भस्म,godanti bhasma,,,,,,,seed-v0
+formulation:pravala_pishti,FORMULATION,pishti,pravāla piṣṭī,प्रवाल पिष्टी,,praval pishti,,,,,,,seed-v0
+formulation:mukta_pishti,FORMULATION,pishti,muktā piṣṭī,मुक्ता पिष्टी,,mukta pishti|moti pishti,,,,,,,seed-v0
+formulation:svarna_bhasma,FORMULATION,bhasma,svarṇa bhasma,स्वर्ण भस्म,suvarṇa bhasma|सुवर्ण भस्म,swarna bhasma|sona bhasma,,,,,,,seed-v0
+formulation:ajamamsa_rasayana,FORMULATION,avaleha,ajamāṃsa rasāyana,अजमांस रसायन,,ajmansa rasayan,,,,,,,seed-v0
+formulation:arshakuthara_rasa,FORMULATION,rasa,arśakuṭhāra rasa,अर्शकुठार रस,अर्श कुठार रस|arśa kuṭhāra rasa,arsh kuthar ras,,,,,,,seed-v0

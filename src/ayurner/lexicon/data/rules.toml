@@ -1,0 +1,130 @@
+# Rule configuration for ayurner. Cue words are written in any script and are
+# folded to phonetic keys when loaded, so "rasa", "रस" and "ras" are the same cue.
+
+# ---------------------------------------------------------------------------
+# Composition: adjacent entities (or the parts of a compound word) that
+# together form a larger entity. Pattern elements are LABEL or LABEL:subtype,
+# with an optional "+" for "one or more".
+# ---------------------------------------------------------------------------
+
+[[compose]]
+name = "dravya_kalpana"          # guduchi kvatha, ashvagandha churna, ashokarishta
+pattern = ["DRAVYA+", "DOSAGE_FORM"]
+label = "FORMULATION"
+subtype = "yoga"
+
+[[compose]]
+name = "formulation_kalpana"     # triphala churna, dashamula kvatha
+pattern = ["FORMULATION", "DOSAGE_FORM"]
+label = "FORMULATION"
+subtype = "yoga"
+
+[[compose]]
+name = "dosha_roga"              # vata roga, vatavyadhi, kapha vikara
+pattern = ["DOSHA+", "ROGA:generic"]
+label = "ROGA"
+
+[[compose]]
+name = "dosha_jvara"             # vata jvara, pittaja jvara
+pattern = ["DOSHA+", "ROGA"]
+label = "ROGA"
+
+[[compose]]
+name = "dosha_generic"           # kapha dosha, pitta dosha
+pattern = ["DOSHA", "DOSHA:generic"]
+label = "DOSHA"
+
+[[compose]]
+name = "roga_generic"            # pandu roga, kushtha roga
+pattern = ["ROGA", "ROGA:generic"]
+label = "ROGA"
+
+[[compose]]
+name = "mala_roga"               # mutra roga, purisha vikara
+pattern = ["MALA", "ROGA:generic"]
+label = "ROGA"
+
+[[compose]]
+name = "subdosha"                # samana vayu, pachaka pitta
+pattern = ["DOSHA:subdosha", "DOSHA"]
+label = "DOSHA"
+subtype = "subdosha"
+
+[[compose]]
+name = "dhatu_generic"           # rasa dhatu, rakta dhatu
+pattern = ["DHATU", "DHATU:generic"]
+label = "DHATU"
+
+[[compose]]
+name = "anatomy_roga"            # tvak vikara, yakrit roga
+pattern = ["ANATOMY", "ROGA:generic"]
+label = "ROGA"
+
+[[compose]]
+name = "property_pair"           # ushna virya, madhura vipaka
+pattern = ["PROPERTY", "PROPERTY:generic"]
+label = "PROPERTY"
+
+# ---------------------------------------------------------------------------
+# Disambiguation: when one key maps to entries with different labels
+# (rasa = taste / tissue, tvak = cinnamon / skin, amla = sour / gooseberry),
+# score each label by cue words and neighbouring entity labels in the window.
+# ---------------------------------------------------------------------------
+
+[disambiguation]
+window = 6
+priority = [
+  "FORMULATION", "DRAVYA", "ROGA", "SYMPTOM", "DOSHA", "DHATU", "MALA",
+  "PROPERTY", "KARMA", "PROCEDURE", "DOSAGE_FORM", "ANATOMY", "CONCEPT",
+]
+
+[disambiguation.cue_words]
+PROPERTY = ["madhura", "amla", "lavana", "katu", "tikta", "kashaya", "svada", "swad", "taste",
+            "guna", "virya", "vipaka", "prabhava", "shadrasa", "rasapanchaka"]
+DHATU = ["rakta", "mamsa", "meda", "asthi", "majja", "shukra", "dhatu", "ojas", "upadhatu",
+         "rasavaha", "poshana", "kshaya", "vriddhi", "tissue"]
+DRAVYA = ["churna", "kvatha", "phala", "mula", "patra", "twak", "powder", "juice", "fruit",
+          "murabba", "candy", "svarasa", "ghrita", "taila", "herb", "plant", "botanical"]
+ANATOMY = ["vikara", "roga", "kushtha", "rukshata", "kandu", "skin", "sparsha", "varna"]
+FORMULATION = ["churna", "vati", "kvatha", "dose", "matra", "anupana"]
+
+[disambiguation.label_cues]
+PROPERTY = ["PROPERTY"]
+DHATU = ["DHATU", "MALA"]
+DRAVYA = ["DRAVYA", "DOSAGE_FORM", "FORMULATION"]
+ANATOMY = ["ANATOMY", "ROGA", "SYMPTOM"]
+ROGA = ["ROGA", "SYMPTOM"]
+SYMPTOM = ["SYMPTOM", "ROGA"]
+
+# ---------------------------------------------------------------------------
+# Context requirement for weak forms: common Hindi words that are also
+# Ayurvedic terms (समान "same", पाचक "digestive", गुरु "teacher", बल "strength").
+# A weak candidate is kept only if a cue word or a strong entity with one of
+# the cue labels is within the window (same sentence). Most specific key wins:
+# "LABEL:subtype", then "LABEL", then "default". "*" means any label.
+# ---------------------------------------------------------------------------
+
+[context]
+window = 5
+penalty = 0.8
+
+[context.rules.default]
+cue_labels = ["*"]
+cue_words = []
+
+[context.rules."DOSHA:subdosha"]
+cue_labels = ["DOSHA"]
+cue_words = ["vata", "vayu", "anila", "pitta", "kapha", "shleshma", "dosha", "agni"]
+window = 3
+
+[context.rules.PROPERTY]
+cue_labels = ["PROPERTY", "DRAVYA", "FORMULATION"]
+cue_words = ["guna", "rasa", "virya", "vipaka", "prabhava", "dravya", "ahara"]
+
+[context.rules.DHATU]
+cue_labels = ["DHATU", "MALA", "DOSHA"]
+cue_words = ["dhatu", "upadhatu", "mala", "srotas", "kshaya", "vriddhi"]
+
+[context.rules.CONCEPT]
+cue_labels = ["DOSHA", "DHATU", "CONCEPT", "PROPERTY", "PROCEDURE"]
+cue_words = ["ayurveda", "sharira", "dosha", "chikitsa"]

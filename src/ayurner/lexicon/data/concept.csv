@@ -1,0 +1,34 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+concept:prakriti,CONCEPT,,prakṛti,प्रकृति,deha prakṛti|देह प्रकृति|doṣa prakṛti,,Constitution,,,,yes,Hindi प्रकृति means nature,seed-v0
+concept:vikriti,CONCEPT,,vikṛti,विकृति,,,Morbid state,,,,yes,,seed-v0
+concept:agni,CONCEPT,,agni,अग्नि,jāṭharāgni|जाठराग्नि|kāyāgni|कायाग्नि,,Digestive fire,,,,yes,Hindi अग्नि means fire,seed-v0
+concept:jatharagni,CONCEPT,,jāṭharāgni,जाठराग्नि,जठराग्नि|jaṭharāgni,,Digestive fire (gastric),,,,,,seed-v0
+concept:dhatvagni,CONCEPT,,dhātvagni,धात्वग्नि,,,Tissue metabolism,,,,,,seed-v0
+concept:ama,CONCEPT,,āma,आम,āmadoṣa|आमदोष,aam dosh,Ama (undigested toxin),,,,yes,Hindi आम means mango / common,seed-v0
+concept:pathya,CONCEPT,,pathya,पथ्य,pathyāhāra|पथ्याहार,parhez|परहेज़,Wholesome diet|Wholesome regimen,,,,,,user-seed
+concept:apathya,CONCEPT,,apathya,अपथ्य,apathyāhāra|अपथ्याहार,,Unwholesome diet,,,,,,user-seed
+concept:cikitsa,CONCEPT,,cikitsā,चिकित्सा,upakrama|उपक्रम,~ilaj|~इलाज|chikitsa,Treatment|Therapy,,,,yes,,user-seed
+concept:dinacarya,CONCEPT,,dinacaryā,दिनचर्या,,dincharya,Daily regimen,,,,,,seed-v0
+concept:ritucarya,CONCEPT,,ṛtucaryā,ऋतुचर्या,,ritucharya,Seasonal regimen,,,,,,seed-v0
+concept:ratricarya,CONCEPT,,rātricaryā,रात्रिचर्या,,ratricharya,Night regimen,,,,,,seed-v0
+concept:sadvritta,CONCEPT,,sadvṛtta,सद्वृत्त,,sadvritta,Code of good conduct,,,,,,seed-v0
+concept:achara_rasayana,CONCEPT,,ācāra rasāyana,आचार रसायन,,achar rasayan,Behavioural rejuvenation,,,,,,seed-v0
+concept:mahabhuta,CONCEPT,,mahābhūta,महाभूत,pañcamahābhūta|पञ्चमहाभूत|पंचमहाभूत,panchmahabhoot|panchamahabhuta,Five great elements,,,,,,seed-v0
+concept:prithvi,CONCEPT,mahabhuta,pṛthvī mahābhūta,पृथ्वी महाभूत,~pṛthvī|~पृथ्वी,,Earth element,,,,,,seed-v0
+concept:jala,CONCEPT,mahabhuta,jala mahābhūta,जल महाभूत,ap mahābhūta|~jala|~जल,,Water element,,,,,,seed-v0
+concept:tejas,CONCEPT,mahabhuta,tejas mahābhūta,तेजस् महाभूत,agni mahābhūta|अग्नि महाभूत|~tejas,,Fire element,,,,,,seed-v0
+concept:vayu_bhuta,CONCEPT,mahabhuta,vāyu mahābhūta,वायु महाभूत,,,Air element,,,,,,seed-v0
+concept:akasha,CONCEPT,mahabhuta,ākāśa mahābhūta,आकाश महाभूत,~ākāśa|~आकाश,,Space element,,,,,,seed-v0
+concept:nidana,CONCEPT,,nidāna,निदान,,,Aetiology|Diagnosis,,,,yes,,seed-v0
+concept:purvarupa,CONCEPT,,pūrvarūpa,पूर्वरूप,,,Prodromal symptoms,,,,,,seed-v0
+concept:upashaya,CONCEPT,,upaśaya,उपशय,,,Therapeutic test,,,,,,seed-v0
+concept:samprapti,CONCEPT,,samprāpti,सम्प्राप्ति,संप्राप्ति,,Pathogenesis,,,,,,seed-v0
+concept:nidranidra,CONCEPT,,nidrā,निद्रा,,~नींद|~neend,Sleep,,,,yes,,seed-v0
+concept:brahmacarya,CONCEPT,,brahmacarya,ब्रह्मचर्य,,brahmacharya,Continence,,,,yes,,seed-v0
+concept:ahara,CONCEPT,,āhāra,आहार,,~aahar|~भोजन,Diet|Food,,,,yes,,seed-v0
+concept:vega,CONCEPT,,vega,वेग,adhāraṇīya vega|अधारणीय वेग,,Natural urges,,,,yes,,seed-v0
+concept:sattva,CONCEPT,manasa,sattva,सत्त्व,सत्व,,Sattva (mental purity),,,,yes,,seed-v0
+concept:tridosha_siddhanta,CONCEPT,,tridoṣa siddhānta,त्रिदोष सिद्धान्त,त्रिदोष सिद्धांत,,Tridosha theory,,,,,,seed-v0
+concept:anupana,CONCEPT,,anupāna,अनुपान,,anupan,Vehicle for medicine,,,,,,seed-v0
+concept:matra,CONCEPT,,mātrā,मात्रा,,matra,Dose,,,,yes,Hindi मात्रा means quantity,seed-v0
+concept:ayurveda,CONCEPT,,āyurveda,आयुर्वेद,,ayurved|ayurveda,Ayurveda,,,,,,seed-v0

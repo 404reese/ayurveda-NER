@@ -1,0 +1,38 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+property:rasa,PROPERTY,generic,rasa,रस,ṣaḍrasa|षड्रस,,Taste,,,,yes,bare rasa is ambiguous (taste / rasa dhātu / mercury),seed-v0
+property:madhura,PROPERTY,rasa,madhura,मधुर,madhura rasa|मधुर रस|svādu|स्वादु,मीठा रस,Sweet taste,,,,,,seed-v0
+property:amla,PROPERTY,rasa,amla,अम्ल,amla rasa|अम्ल रस,खट्टा रस,Sour taste,,,,,romanized amla collides with the fruit āmalakī,seed-v0
+property:lavana,PROPERTY,rasa,lavaṇa,लवण,lavaṇa rasa|लवण रस,नमकीन रस,Salty taste,,,,,lavaṇa also means salt,seed-v0
+property:katu,PROPERTY,rasa,kaṭu,कटु,kaṭu rasa|कटु रस,तीखा रस,Pungent taste,,,,,,seed-v0
+property:tikta,PROPERTY,rasa,tikta,तिक्त,tikta rasa|तिक्त रस,कड़वा रस,Bitter taste,,,,,,seed-v0
+property:kashaya,PROPERTY,rasa,kaṣāya,कषाय,kaṣāya rasa|कषाय रस,कसैला रस,Astringent taste,,,,,kaṣāyam (decoction) is a dosage form,seed-v0
+property:guna,PROPERTY,generic,guṇa,गुण,guṇāḥ|gurvādi guṇa|गुर्वादि गुण,,Quality|Property,,,,yes,Hindi गुण also means virtue,seed-v0
+property:guru,PROPERTY,guna,guru,गुरु,,,Heavy,,,,yes,Hindi गुरु also means teacher,seed-v0
+property:laghu,PROPERTY,guna,laghu,लघु,,,Light,,,,yes,,seed-v0
+property:shita,PROPERTY,guna,śīta,शीत,,,Cold,,,,yes,,seed-v0
+property:ushna,PROPERTY,guna,uṣṇa,उष्ण,,,Hot,,,,yes,,seed-v0
+property:snigdha,PROPERTY,guna,snigdha,स्निग्ध,,,Unctuous|Oily,,,,,,seed-v0
+property:ruksha,PROPERTY,guna,rūkṣa,रूक्ष,,,Dry,,,,yes,,seed-v0
+property:manda,PROPERTY,guna,manda,मन्द,मंद,,Dull|Slow,,,,yes,,seed-v0
+property:tikshna,PROPERTY,guna,tīkṣṇa,तीक्ष्ण,,,Sharp|Penetrating,,,,yes,,seed-v0
+property:sthira,PROPERTY,guna,sthira,स्थिर,,,Stable,,,,yes,,seed-v0
+property:sara,PROPERTY,guna,sara,सर,,,Mobile|Flowing,,,,yes,,seed-v0
+property:mridu,PROPERTY,guna,mṛdu,मृदु,,,Soft,,,,yes,,seed-v0
+property:kathina,PROPERTY,guna,kaṭhina,कठिन,,,Hard,,,,yes,Hindi कठिन means difficult,seed-v0
+property:vishada,PROPERTY,guna,viśada,विशद,,,Clear|Non-slimy,,,,yes,,seed-v0
+property:picchila,PROPERTY,guna,picchila,पिच्छिल,,,Slimy,,,,,,seed-v0
+property:shlakshna,PROPERTY,guna,ślakṣṇa,श्लक्ष्ण,,,Smooth,,,,,,seed-v0
+property:khara,PROPERTY,guna,khara,खर,,,Rough,,,,yes,,seed-v0
+property:sukshma,PROPERTY,guna,sūkṣma,सूक्ष्म,,,Subtle,,,,yes,,seed-v0
+property:sthula,PROPERTY,guna,sthūla,स्थूल,,,Gross,,,,yes,,seed-v0
+property:sandra,PROPERTY,guna,sāndra,सान्द्र,सांद्र,,Dense,,,,yes,,seed-v0
+property:drava,PROPERTY,guna,drava,द्रव,,,Liquid,,,,yes,,seed-v0
+property:virya,PROPERTY,generic,vīrya,वीर्य,,,Potency,,,,yes,Hindi वीर्य also means semen,seed-v0
+property:ushna_virya,PROPERTY,virya,uṣṇa vīrya,उष्ण वीर्य,उष्णवीर्य|uṣṇavīrya,garam taseer|गर्म तासीर,Hot potency,,,,,,seed-v0
+property:shita_virya,PROPERTY,virya,śīta vīrya,शीत वीर्य,शीतवीर्य|śītavīrya,thandi taseer|ठंडी तासीर,Cold potency,,,,,,seed-v0
+property:vipaka,PROPERTY,generic,vipāka,विपाक,,,Post-digestive effect,,,,yes,,seed-v0
+property:madhura_vipaka,PROPERTY,vipaka,madhura vipāka,मधुर विपाक,मधुरविपाक,,Sweet post-digestive effect,,,,,,seed-v0
+property:amla_vipaka,PROPERTY,vipaka,amla vipāka,अम्ल विपाक,अम्लविपाक,,Sour post-digestive effect,,,,,,seed-v0
+property:katu_vipaka,PROPERTY,vipaka,kaṭu vipāka,कटु विपाक,कटुविपाक,,Pungent post-digestive effect,,,,,,seed-v0
+property:prabhava,PROPERTY,generic,prabhāva,प्रभाव,,,Specific action (prabhava),,,,yes,Hindi प्रभाव means effect,seed-v0
+property:madhura_rasa_panca,PROPERTY,generic,rasapañcaka,रसपञ्चक,रसपंचक,,Five pharmacological attributes,,,,,,seed-v0

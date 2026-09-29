@@ -1,0 +1,123 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+dravya:ashvagandha,DRAVYA,herb,aśvagandhā,अश्वगन्धा,अश्वगंधा|वाजिगन्धा|vājigandhā|hayagandhā,असगंध|asgandh|ashwagandha,Indian ginseng|Winter cherry,,Withania somnifera,,,,user-seed
+dravya:guduci,DRAVYA,herb,guḍūcī,गुडूची,अमृता|amṛtā|अमृतवल्ली|amṛtavallī|छिन्नरुहा|chinnaruhā|madhuparṇī,गिलोय|giloy|गुरुच|guduchi|gurach,Heart-leaved moonseed,,Tinospora cordifolia,,,amṛtā is also used for harītakī/āmalakī in some texts,user-seed
+dravya:shatavari,DRAVYA,herb,śatāvarī,शतावरी,शतमूली|śatamūlī|abhīru|अभीरु,shatavar|सतावर,Wild asparagus,,Asparagus racemosus,,,,user-seed
+dravya:tulasi,DRAVYA,herb,tulasī,तुलसी,surasā|सुरसा,tulsi|तुलसी,Holy basil,,Ocimum tenuiflorum,,,,user-seed
+dravya:haridra,DRAVYA,herb,haridrā,हरिद्रा,kāñcanī|काञ्चनी,हल्दी|haldi,Turmeric,,Curcuma longa,,,niśā/rajanī (night) omitted: too ambiguous,user-seed
+dravya:amalaki,DRAVYA,herb,āmalakī,आमलकी,dhātrī|धात्री|āmalaka|आमलक|vayasthā,आंवला|आँवला|~amla|awla|aonla,Indian gooseberry,,Phyllanthus emblica,,,romanized amla collides with amla rasa (sour),user-seed
+dravya:vibhitaka,DRAVYA,herb,vibhītaka,विभीतक,बिभीतक|bibhītaka|बिभीतकी|bibhītakī|vibhītakī,बहेड़ा|baheda|bahera,Belleric myrobalan,,Terminalia bellirica,,,,user-seed
+dravya:haritaki,DRAVYA,herb,harītakī,हरीतकी,abhayā|अभया|hareetaki|harītakī,हरड़|हर्रे|harad|harar|harre,Chebulic myrobalan,,Terminalia chebula,,,pathyā omitted: collides with pathya (wholesome diet),user-seed
+dravya:brahmi,DRAVYA,herb,brāhmī,ब्राह्मी,~sarasvatī|~सरस्वती,brahmi|ब्राह्मी बूटी,Water hyssop|Bacopa,,Bacopa monnieri,,,,user-seed
+dravya:guggulu,DRAVYA,herb,guggulu,गुग्गुलु,गुग्गुल,गूगल|guggul|gugal,Indian bdellium,,Commiphora wightii,,,oleo-gum resin,user-seed
+dravya:nimba,DRAVYA,herb,nimba,निम्ब,picumarda|पिचुमर्द,नीम|neem|nim,Neem|Margosa,,Azadirachta indica,,,,user-seed
+dravya:yashtimadhu,DRAVYA,herb,yaṣṭīmadhu,यष्टीमधु,यष्टिमधु|yaṣṭimadhu|madhuyaṣṭī|मधुयष्टी|madhuka|मधुक,मुलेठी|mulethi|मुलहठी|mulhathi|jethimadh|jeshthamadh,Liquorice|Licorice,,Glycyrrhiza glabra,,,,user-seed
+dravya:shunthi,DRAVYA,herb,śuṇṭhī,शुण्ठी,शूंठी|शुंठी|viśvabheṣaja,सोंठ|sonth|saunth,Dry ginger,,Zingiber officinale,,,nāgara/viśva omitted: collide with common words,user-seed
+dravya:ardraka,DRAVYA,herb,ārdraka,आर्द्रक,ārdrakam,अदरक|adrak|adrakh,Fresh ginger|Ginger,,Zingiber officinale,,,,user-seed
+dravya:pippali,DRAVYA,herb,pippalī,पिप्पली,māgadhī|मागधी|उषणा,पिपली|pipli|pipali|पीपर|pipar|लेंडी पीपल,Long pepper,,Piper longum,,,Hindi पीपल alone is the peepal tree so it is not listed,user-seed
+dravya:marica,DRAVYA,herb,marica,मरिच,मरीच|marīca|ūṣaṇa|ऊषण,काली मिर्च|kali mirch|kalimirch|गोल मिर्च|gol mirch,Black pepper,,Piper nigrum,,,,user-seed
+dravya:vasa,DRAVYA,herb,vāsaka,वासक,वासका|vāsakā|~vāsā|~वासा|āṭarūṣa|आटरूष,अड़ूसा|अडूसा|adusa|arusa|adulsa,Malabar nut,,Justicia adhatoda,,,,user-seed
+dravya:arjuna,DRAVYA,herb,arjuna,अर्जुन,kakubha|ककुभ,~arjun,Arjuna tree|Arjun bark,,Terminalia arjuna,,yes,also a personal name,user-seed
+dravya:kancanara,DRAVYA,herb,kāñcanāra,काञ्चनार,कांचनार|कञ्चनार,कचनार|kachnar|kanchnar,Mountain ebony,,Bauhinia variegata,,,,user-seed
+dravya:bhringaraja,DRAVYA,herb,bhṛṅgarāja,भृङ्गराज,भृंगराज|keśarāja|केशराज|mārkava,bhringraj|bhangra booti|भांगरा,False daisy,,Eclipta prostrata,,,,user-seed
+dravya:shankhapushpi,DRAVYA,herb,śaṅkhapuṣpī,शङ्खपुष्पी,शंखपुष्पी|śaṃkhapuṣpī,shankhpushpi|shankhapushpi,,,Convolvulus prostratus,,,,user-seed
+dravya:katuki,DRAVYA,herb,kaṭukā,कटुका,कटुकी|kaṭukī|kaṭurohiṇī|कटुरोहिणी,कुटकी|kutki|katuki,Kutki|Hellebore (Indian),,Picrorhiza kurroa,,,,user-seed
+dravya:kiratatikta,DRAVYA,herb,kirātatikta,किराततिक्त,kairāta,चिरायता|chirayata|chiraita,Chirata,,Swertia chirayita,,,,user-seed
+dravya:kalamegha,DRAVYA,herb,kālamegha,कालमेघ,bhūnimba|भूनिम्ब,kalmegh|कालमेघ,Green chiretta|King of bitters,,Andrographis paniculata,,,bhūnimba is identified with kālamegha in API; some texts use it for kirātatikta,user-seed
+dravya:lashuna,DRAVYA,herb,laśuna,लशुन,rasona|रसोन,लहसुन|lahsun|lehsun|lahasun,Garlic,,Allium sativum,,,,user-seed
+dravya:punarnava,DRAVYA,herb,punarnavā,पुनर्नवा,śothaghnī|शोथघ्नी|varṣābhū|वर्षाभू,gadahpurna|punarnava|साठी पुनर्नवा,Spreading hogweed,,Boerhavia diffusa,,,,user-seed
+dravya:gokshura,DRAVYA,herb,gokṣura,गोक्षुर,trikaṇṭaka|त्रिकण्टक|śvadaṃṣṭrā|श्वदंष्ट्रा,गोखरू|gokhru|gokharu,Puncture vine|Caltrops,,Tribulus terrestris,,,,user-seed
+dravya:shatahva,DRAVYA,herb,śatāhvā,शताह्वा,शताहवा|śatapuṣpā|शतपुष्पा,सोआ|sowa|soya,Dill,,Anethum sowa,,,user list spelled शताहवा,user-seed
+dravya:mishreya,DRAVYA,herb,miśreyā,मिश्रेया,madhurikā|मधुरिका,सौंफ|saunf|sonf,Fennel,,Foeniculum vulgare,,,,seed-v0
+dravya:methika,DRAVYA,herb,methikā,मेथिका,methī|मेथी,methi|मेथी दाना|methi dana,Fenugreek,,Trigonella foenum-graecum,,,,user-seed
+dravya:yavani,DRAVYA,herb,yavānī,यवानी,यवानिका|yavānikā|dīpyaka|दीप्यक,अजवाइन|अजवायन|ajwain|ajvain,Carom seeds|Bishop's weed,,Trachyspermum ammi,,,,user-seed
+dravya:hingu,DRAVYA,herb,hiṅgu,हिङ्गु,हिंगु|rāmaṭha|रामठ,हींग|heeng|hing,Asafoetida,,Ferula assa-foetida,,,,user-seed
+dravya:jiraka,DRAVYA,herb,jīraka,जीरक,jīrakā|ajājī|अजाजी,जीरा|jeera|jira|zeera,Cumin,,Cuminum cyminum,,,,user-seed
+dravya:dhanyaka,DRAVYA,herb,dhānyaka,धान्यक,kustumburu|कुस्तुम्बुरु,धनिया|dhaniya|dhania,Coriander,,Coriandrum sativum,,,,user-seed
+dravya:ela,DRAVYA,herb,elā,एला,sūkṣmailā|सूक्ष्मैला|sūkṣma elā,इलायची|elaichi|ilaichi|छोटी इलायची|choti elaichi,Cardamom,,Elettaria cardamomum,,,,user-seed
+dravya:tvak,DRAVYA,herb,tvak,त्वक्,त्वक|dārusitā|दारुसिता,दालचीनी|dalchini|dalcheeni,Cinnamon,,Cinnamomum verum,,,tvak also means skin (see anatomy:tvak),user-seed
+dravya:lavanga,DRAVYA,herb,lavaṅga,लवङ्ग,लवंग|devakusuma|देवकुसुम,लौंग|laung|lavang,Clove,,Syzygium aromaticum,,,,user-seed
+dravya:candana,DRAVYA,herb,candana,चन्दन,चंदन|śrīkhaṇḍa|श्रीखण्ड|śvetacandana|श्वेतचन्दन|malayaja,chandan|safed chandan|सफेद चंदन,Sandalwood,,Santalum album,,,,user-seed
+dravya:raktacandana,DRAVYA,herb,raktacandana,रक्तचन्दन,रक्तचंदन|kucandana|कुचन्दन,लाल चंदन|lal chandan,Red sandalwood,,Pterocarpus santalinus,,,,user-seed
+dravya:musta,DRAVYA,herb,mustā,मुस्ता,mustaka|मुस्तक|bhadramustā|भद्रमुस्ता,नागरमोथा|nagarmotha|मोथा|motha,Nut grass,,Cyperus rotundus,,,,user-seed
+dravya:vidanga,DRAVYA,herb,viḍaṅga,विडङ्ग,विडंग,वायविडंग|बायबिडंग|vaividang|vayvidang|baibidang,False black pepper,,Embelia ribes,,,,user-seed
+dravya:babbula,DRAVYA,herb,babbūla,बब्बूल,बब्बुल|babbula,बबूल|babool|babul|कीकर|kikar,Babul|Gum arabic tree,,Vachellia nilotica,,,,user-seed
+dravya:khadira,DRAVYA,herb,khadira,खदिर,,खैर|khair|कत्था,Cutch tree|Catechu,,Senegalia catechu,,,,user-seed
+dravya:karanja,DRAVYA,herb,karañja,करञ्ज,करंज|naktamāla|नक्तमाल,karanj|करंज,Indian beech|Pongamia,,Pongamia pinnata,,,,user-seed
+dravya:aragvadha,DRAVYA,herb,āragvadha,आरग्वध,rājavṛkṣa|राजवृक्ष|kṛtamāla|कृतमाल|śamyāka|शम्याक,अमलतास|amaltas,Indian laburnum|Golden shower,,Cassia fistula,,,,user-seed
+dravya:eranda,DRAVYA,herb,eraṇḍa,एरण्ड,एरंड|pañcāṅgula|पञ्चाङ्गुल|vātāri,अरंडी|अरण्डी|arandi|रेंडी|rendi,Castor,,Ricinus communis,,,,user-seed
+dravya:bhallataka,DRAVYA,herb,bhallātaka,भल्लातक,aruṣkara|अरुष्कर,भिलावा|bhilawa|bhilava,Marking nut,,Semecarpus anacardium,,,,user-seed
+dravya:vatsanabha,DRAVYA,herb,vatsanābha,वत्सनाभ,,बछनाग|bachnag|meetha vish|मीठा विष,Aconite|Monkshood,,Aconitum ferox,,,poisonous; used only after shodhana,user-seed
+dravya:kupilu,DRAVYA,herb,kupīlu,कुपीलु,viṣatinduka|विषतिन्दुक,कुचला|kuchla|kuchila|kuchala,Nux vomica|Strychnine tree,,Strychnos nux-vomica,,,poisonous; used only after shodhana,user-seed
+dravya:rasna,DRAVYA,herb,rāsnā,रास्ना,elāparṇī|एलापर्णी,रायसन|raysan|rasna,,,Pluchea lanceolata,,,Alpinia galanga is used as rāsnā in South India,user-seed
+dravya:bala,DRAVYA,herb,balā,बला,vāṭyālaka|वाट्यालक,खरेंटी|kharenti|बरियारा|bariyara|बीजबंद|beejband,Country mallow,,Sida cordifolia,,yes,balā collides with bala (strength),user-seed
+dravya:atibala,DRAVYA,herb,atibalā,अतिबला,kaṅkatikā|कङ्कतिका,kanghi booti,Indian mallow,,Abutilon indicum,,,,user-seed
+dravya:kapikacchu,DRAVYA,herb,kapikacchū,कपिकच्छू,कपिकच्छु|ātmaguptā|आत्मगुप्ता,कौंच|kaunch|कौंछ|konch|kiwanch,Velvet bean|Cowhage,,Mucuna pruriens,,,,user-seed
+dravya:musali,DRAVYA,herb,śveta musalī,श्वेत मुसली,musalī|मुसली|tālamūlī,सफ़ेद मुसली|सफेद मुसली|safed musli|musli,Safed musli,,Chlorophytum borivilianum,,,,user-seed
+dravya:ashoka,DRAVYA,herb,aśoka,अशोक,hemapuṣpa|हेमपुष्प|vañjula,~ashok,Ashoka tree,,Saraca asoca,,yes,also a personal name,user-seed
+dravya:lodhra,DRAVYA,herb,lodhra,लोध्र,tirīṭa|तिरीट|śābara lodhra,लोध|lodh|पठानी लोध|pathani lodh,Symplocos bark,,Symplocos racemosa,,,,user-seed
+dravya:manjishtha,DRAVYA,herb,mañjiṣṭhā,मञ्जिष्ठा,मंजिष्ठा|samaṅgā|समङ्गा|yojanavallī,मंजीठ|मजीठ|manjith|majith|manjistha,Indian madder,,Rubia cordifolia,,,,user-seed
+dravya:daruharidra,DRAVYA,herb,dāruharidrā,दारुहरिद्रा,dārvī|दार्वी|kaṭaṅkaṭerī,दारूहल्दी|दारुहल्दी|daruhaldi,Indian barberry|Tree turmeric,,Berberis aristata,,,,user-seed
+dravya:vaca,DRAVYA,herb,vacā,वचा,ugragandhā|उग्रगन्धा|ṣaḍgranthā|षड्ग्रन्था,बच|vach|bach|घोड़बच,Sweet flag|Calamus,,Acorus calamus,,,,user-seed
+dravya:ghritakumari,DRAVYA,herb,ghṛtakumārī,घृतकुमारी,~कुमारी|~kumārī|gṛhakanyā|गृहकन्या,ग्वारपाठा|gwarpatha|एलोवेरा|aloevera|aloe vera,Aloe vera|Aloe,,Aloe barbadensis,,,,user-seed
+dravya:isabgol,DRAVYA,herb,īśabgola,ईसबगोल,isabgol|isabgul|snigdhajīraka,इसबगोल|isabgol|ईसबगोल की भूसी,Psyllium|Psyllium husk|Blond psyllium,,Plantago ovata,,,Unani/Persian name; Sanskrit synonym unverified,user-seed
+dravya:saptaparna,DRAVYA,herb,saptaparṇa,सप्तपर्ण,saptacchada|सप्तच्छद|viṣamacchada,सतौना|chhatim|छतिवन|chitvan,Devil tree|Blackboard tree,,Alstonia scholaris,,,,user-seed
+dravya:shigru,DRAVYA,herb,śigru,शिग्रु,śobhāñjana|शोभाञ्जन|śobhāñjanaka,सहजन|sahjan|sahajan|सहिजन|मुनगा|munga,Drumstick tree|Moringa,,Moringa oleifera,,,,user-seed
+dravya:bilva,DRAVYA,herb,bilva,बिल्व,śrīphala|श्रीफल|śāṇḍilya|mālūra,~बेल|~bel|bael,Bael|Bengal quince,,Aegle marmelos,,,Hindi बेल also means creeper,user-seed
+dravya:kunkuma,DRAVYA,herb,kuṅkuma,कुङ्कुम,कुंकुम|keśara|केशर|agniśikha,केसर|kesar|keshar|जाफरान|zafran,Saffron,,Crocus sativus,,,,seed-v0
+dravya:jatamamsi,DRAVYA,herb,jaṭāmāṃsī,जटामांसी,जटामांसि|māṃsī|bhūtajaṭā,बालछड़|balchhad|jatamansi,Spikenard,,Nardostachys jatamansi,,,,seed-v0
+dravya:tagara,DRAVYA,herb,tagara,तगर,,tagar|तगर,Indian valerian,,Valeriana wallichii,,,,seed-v0
+dravya:jyotishmati,DRAVYA,herb,jyotiṣmatī,ज्योतिष्मती,kaṅgunī|कङ्गुनी,मालकांगनी|malkangni,Black oil plant|Staff tree,,Celastrus paniculatus,,,,seed-v0
+dravya:mandukaparni,DRAVYA,herb,maṇḍūkaparṇī,मण्डूकपर्णी,,mandukparni,Gotu kola|Indian pennywort,,Centella asiatica,,,,seed-v0
+dravya:kutaja,DRAVYA,herb,kuṭaja,कुटज,vatsaka|वत्सक|girimallikā,कुड़ा|kurchi|kuda|कुरची,Kurchi|Conessi bark,,Holarrhena pubescens,,,,seed-v0
+dravya:indrayava,DRAVYA,herb,indrayava,इन्द्रयव,kuṭajabīja,इंद्रजौ|indrajau|inderjau,Kurchi seeds,,Holarrhena pubescens,,,seed of kuṭaja,seed-v0
+dravya:patola,DRAVYA,herb,paṭola,पटोल,rājīphala,परवल|parwal|parval,Pointed gourd,,Trichosanthes dioica,,,,seed-v0
+dravya:kantakari,DRAVYA,herb,kaṇṭakārī,कण्टकारी,कंटकारी|nidigdhikā|निदिग्धिका,कटेरी|kateri|भटकटैया|bhatkataiya|छोटी कटेरी,Yellow-berried nightshade,,Solanum virginianum,,,,seed-v0
+dravya:brihati,DRAVYA,herb,bṛhatī,बृहती,,बड़ी कटेरी|badi kateri,Indian nightshade,,Solanum indicum,,,,seed-v0
+dravya:agnimantha,DRAVYA,herb,agnimantha,अग्निमन्थ,araṇī|अरणी,अरनी|arni|arani,Headache tree,,Premna integrifolia,,,Clerodendrum phlomidis also used,seed-v0
+dravya:shyonaka,DRAVYA,herb,śyonāka,श्योनाक,ṭuṇṭuka|टुण्टुक|aralu,सोनापाठा|sonapatha|arlu,Indian trumpet tree,,Oroxylum indicum,,,,seed-v0
+dravya:patala,DRAVYA,herb,pāṭalā,पाटला,kāmbuvaha,पाढल|padhal|padal,Trumpet flower tree,,Stereospermum suaveolens,,,,seed-v0
+dravya:gambhari,DRAVYA,herb,gambhārī,गम्भारी,गंभारी|kāśmarya|काश्मर्य|śrīparṇī,गंभार|gambhar|kambhari,Beechwood|Gmelina,,Gmelina arborea,,,,seed-v0
+dravya:shalaparni,DRAVYA,herb,śālaparṇī,शालपर्णी,aṃśumatī,सरिवन|sarivan|shalparni,,,Desmodium gangeticum,,,,seed-v0
+dravya:prishniparni,DRAVYA,herb,pṛśniparṇī,पृश्निपर्णी,pṛthakparṇī,पिठवन|pithvan|prishniparni,,,Uraria picta,,,,seed-v0
+dravya:citraka,DRAVYA,herb,citraka,चित्रक,,chitrak|चित्रक,Ceylon leadwort,,Plumbago zeylanica,,,,seed-v0
+dravya:pashanabheda,DRAVYA,herb,pāṣāṇabheda,पाषाणभेद,aśmabhedaka|अश्मभेदक|śilābheda,पत्थरचूर|pakhanbhed|pashanbhed|पाखानभेद,Rockfoil,,Bergenia ligulata,,,,seed-v0
+dravya:trivrit,DRAVYA,herb,trivṛt,त्रिवृत्,त्रिवृत|trivṛtā|त्रिवृता|tribhaṇḍī,निशोथ|nishoth|nisoth,Indian jalap|Turpeth,,Operculina turpethum,,,,seed-v0
+dravya:sariva,DRAVYA,herb,sārivā,सारिवा,anantamūla|अनन्तमूल|gopavallī,अनंतमूल|anantmool|anantmul,Indian sarsaparilla,,Hemidesmus indicus,,,,seed-v0
+dravya:ushira,DRAVYA,herb,uśīra,उशीर,vīraṇa|वीरण,खस|khus|khas,Vetiver|Khus grass,,Chrysopogon zizanioides,,,,seed-v0
+dravya:nagakeshara,DRAVYA,herb,nāgakeśara,नागकेशर,नागकेसर|nāgapuṣpa,नागकेसर|nagkesar|nagkeshar,Ceylon ironwood,,Mesua ferrea,,,,seed-v0
+dravya:vidari,DRAVYA,herb,vidārī,विदारी,vidārīkanda|विदारीकन्द|kṣīravidārī,विदारीकंद|vidarikand|bidarikand,Indian kudzu,,Pueraria tuberosa,,,,seed-v0
+dravya:jatiphala,DRAVYA,herb,jātīphala,जातीफल,jātīkoṣa,जायफल|jaiphal|jayphal,Nutmeg,,Myristica fragrans,,,,seed-v0
+dravya:karpura,DRAVYA,herb,karpūra,कर्पूर,ghanasāra|घनसार,कपूर|kapoor|kapur,Camphor,,Cinnamomum camphora,,,,seed-v0
+dravya:dadima,DRAVYA,herb,dāḍima,दाडिम,dāḍimba|दाडिम्ब,अनार|anar,Pomegranate,,Punica granatum,,,,seed-v0
+dravya:draksha,DRAVYA,herb,drākṣā,द्राक्षा,mṛdvīkā|मृद्वीका|gostanī,मुनक्का|munakka|किशमिश|kishmish|अंगूर|angoor,Grapes|Raisins,,Vitis vinifera,,,,seed-v0
+dravya:shallaki,DRAVYA,herb,śallakī,शल्लकी,gajabhakṣyā|गजभक्ष्या,सलई|salai|salai guggul,Indian frankincense,,Boswellia serrata,,,,seed-v0
+dravya:nirgundi,DRAVYA,herb,nirguṇḍī,निर्गुण्डी,निर्गुंडी|sinduvāra|सिन्दुवार,सम्भालू|sambhalu|nirgundi,Five-leaved chaste tree,,Vitex negundo,,,,seed-v0
+dravya:apamarga,DRAVYA,herb,apāmārga,अपामार्ग,mayūraka,चिरचिटा|chirchita|लटजीरा|latjira,Prickly chaff flower,,Achyranthes aspera,,,,seed-v0
+dravya:durva,DRAVYA,herb,dūrvā,दूर्वा,śatavīryā|शतवीर्या,दूब|doob|dub|दूब घास,Bermuda grass,,Cynodon dactylon,,,,seed-v0
+dravya:tila,DRAVYA,herb,tila,तिल,snehaphala,~til|~तिल,Sesame,,Sesamum indicum,,,,seed-v0
+dravya:sarshapa,DRAVYA,herb,sarṣapa,सर्षप,,सरसों|sarson,Mustard,,Brassica campestris,,,,seed-v0
+dravya:madhu,DRAVYA,animal,madhu,मधु,kṣaudra|क्षौद्र,शहद|shahad|shehad,Honey,,,,,madhu also means sweet,seed-v0
+dravya:gomutra,DRAVYA,animal,gomūtra,गोमूत्र,,gaumutra|गौमूत्र,Cow urine,,,,,,seed-v0
+dravya:ksira,DRAVYA,animal,kṣīra,क्षीर,dugdha|दुग्ध|payas,दूध|doodh|dudh,Milk,,,,,,seed-v0
+dravya:takra,DRAVYA,animal,takra,तक्र,,छाछ|chhachh|मट्ठा|mattha|buttermilk,Buttermilk,,,,,,seed-v0
+dravya:parada,DRAVYA,mineral,pārada,पारद,rasa-pārada|~sūta|~सूत|rasendra|रसेन्द्र,,Mercury,,,,,"pārada alone; bare ""rasa"" also means mercury in rasaśāstra",seed-v0
+dravya:gandhaka,DRAVYA,mineral,gandhaka,गन्धक,गंधक,gandhak|गंधक,Sulphur,,,,,,seed-v0
+dravya:abhraka,DRAVYA,mineral,abhraka,अभ्रक,,abhrak|अभ्रक,Mica,,,,,,seed-v0
+dravya:svarna,DRAVYA,mineral,svarṇa,स्वर्ण,suvarṇa|सुवर्ण|kanaka|कनक,~sona|~सोना,Gold,,,,,,seed-v0
+dravya:rajata,DRAVYA,mineral,rajata,रजत,rūpya|रूप्य,चाँदी|चांदी|chandi|chaandi,Silver,,,,,,seed-v0
+dravya:tamra,DRAVYA,mineral,tāmra,ताम्र,śulba|शुल्ब,ताँबा|तांबा|tamba,Copper,,,,,,seed-v0
+dravya:lauha,DRAVYA,mineral,lauha,लौह,ayas|अयस्|loha|लोह,लोहा|loha,Iron,,,,,,seed-v0
+dravya:yashada,DRAVYA,mineral,yaśada,यशद,jasada|जसद,जस्ता|jasta,Zinc,,,,,,seed-v0
+dravya:vanga,DRAVYA,mineral,vaṅga,वङ्ग,वंग|trapu|त्रपु,रांगा|ranga,Tin,,,,,,seed-v0
+dravya:shilajatu,DRAVYA,mineral,śilājatu,शिलाजतु,śilājit|अश्मजतु|aśmajatu,शिलाजीत|shilajit|shilajeet,Shilajit|Mineral pitch,,,,,,seed-v0
+dravya:hingula,DRAVYA,mineral,hiṅgula,हिङ्गुल,हिंगुल|darada|दरद,हिंगलू|hinglu|shingraf|सिंगरफ,Cinnabar,,,,,,seed-v0
+dravya:mandura,DRAVYA,mineral,maṇḍūra,मण्डूर,मंडूर,mandur|मंडूर,Iron slag|Iron rust,,,,,,seed-v0
+dravya:tankana,DRAVYA,mineral,ṭaṅkaṇa,टङ्कण,टंकण,सुहागा|suhaga|sohaga,Borax,,,,,,seed-v0
+dravya:gairika,DRAVYA,mineral,gairika,गैरिक,svarṇagairika,गेरू|geru,Red ochre,,,,,,seed-v0
+dravya:sphatika,DRAVYA,mineral,sphaṭikā,स्फटिका,स्फटिक,फिटकरी|fitkari|phitkari,Alum,,,,,,seed-v0
+dravya:mukta,DRAVYA,animal,muktā,मुक्ता,mauktika|मौक्तिक,मोती|moti,Pearl,,,,,,seed-v0
+dravya:pravala,DRAVYA,animal,pravāla,प्रवाल,vidruma|विद्रुम,मूंगा|moonga|munga,Coral,,,,,,seed-v0
+dravya:shankha,DRAVYA,animal,śaṅkha,शङ्ख,शंख|kambu|कम्बु,शंख|shankh,Conch shell,,,,,,seed-v0
+dravya:kapardika,DRAVYA,animal,kapardikā,कपर्दिका,varāṭikā|वराटिका,कौड़ी|kaudi|kodi,Cowrie shell,,,,,,seed-v0
+dravya:godanti,DRAVYA,mineral,godantī,गोदन्ती,गोदंती,godanti,Gypsum,,,,,,seed-v0
+dravya:karavellaka,DRAVYA,herb,kāravellaka,कारवेल्लक,kāravella|कारवेल्ल,करेला|karela|karela,Bitter gourd,,Momordica charantia,,,,seed-v0

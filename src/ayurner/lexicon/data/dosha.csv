@@ -1,0 +1,23 @@
+id,label,subtype,canonical_iast,devanagari,synonyms,hindi,english,definition,botanical,xrefs,requires_context,notes,source
+dosha:vata,DOSHA,,vāta,वात,vāyu|वायु|anila|अनिल|samīraṇa|समीरण|māruta|मारुत|vātadoṣa|वातदोष,vaat|vata|vayu|vaayu|vaata,,,,,,,user-seed
+dosha:pitta,DOSHA,,pitta,पित्त,pittadoṣa|पित्तदोष,pitt|pitta,,,,,,pitta is not the same as bile,user-seed
+dosha:kapha,DOSHA,,kapha,कफ,śleṣmā|श्लेष्मा|śleṣman|श्लेष्म|kaphadoṣa|कफदोष|balāsa,kaf|kapha|kafa,,,,,,,user-seed
+dosha:tridosha,DOSHA,,tridoṣa,त्रिदोष,tridhātu|त्रिधातु|trayo doṣāḥ,tridosh|tridosha,Three doshas,,,,,,user-seed
+dosha:dosha,DOSHA,generic,doṣa,दोष,doṣāḥ|दोषाः,dosh|dosha,,,,,yes,Hindi दोष also means fault,seed-v0
+dosha:prana_vata,DOSHA,subdosha,prāṇa vāta,प्राण वात,प्राण वायु|prāṇa vāyu|prāṇavāyu|प्राणवायु|~prāṇa|~प्राण,prana vayu,,,,,,प्राण alone also means life,user-seed
+dosha:udana_vata,DOSHA,subdosha,udāna vāta,उदान वात,उदान वायु|udāna vāyu|udānavāyu|~udāna|~उदान,udan vayu,,,,,,,user-seed
+dosha:samana_vata,DOSHA,subdosha,samāna vāta,समान वात,समान वायु|samāna vāyu|samānavāyu|~samāna|~समान,saman vayu,,,,,,समान alone is the common Hindi word for same,user-seed
+dosha:vyana_vata,DOSHA,subdosha,vyāna vāta,व्यान वात,व्यान वायु|vyāna vāyu|vyānavāyu|~vyāna|~व्यान,vyan vayu,,,,,,,user-seed
+dosha:apana_vata,DOSHA,subdosha,apāna vāta,अपान वात,अपान वायु|apāna vāyu|apānavāyu|~apāna|~अपान,apan vayu,,,,,,,user-seed
+dosha:pacaka_pitta,DOSHA,subdosha,pācaka pitta,पाचक पित्त,pācakāgni|पाचकाग्नि|~pācaka|~पाचक,pachak pitt,,,,,,पाचक alone is the Hindi word for digestive,user-seed
+dosha:ranjaka_pitta,DOSHA,subdosha,rañjaka pitta,रञ्जक पित्त,रंजक पित्त|~rañjaka|~रञ्जक|~रंजक,ranjak pitt,,,,,,,user-seed
+dosha:sadhaka_pitta,DOSHA,subdosha,sādhaka pitta,साधक पित्त,~sādhaka|~साधक,sadhak pitt,,,,,,साधक alone also means practitioner,user-seed
+dosha:alocaka_pitta,DOSHA,subdosha,ālocaka pitta,आलोचक पित्त,~ālocaka|~आलोचक,alochak pitt,,,,,,,user-seed
+dosha:bhrajaka_pitta,DOSHA,subdosha,bhrājaka pitta,भ्राजक पित्त,~bhrājaka|~भ्राजक,bhrajak pitt,,,,,,,user-seed
+dosha:kledaka_kapha,DOSHA,subdosha,kledaka kapha,क्लेदक कफ,क्लेदक श्लेष्मा|~kledaka|~क्लेदक,kledak kaf,,,,,,user list spelled कलेदक,user-seed
+dosha:avalambaka_kapha,DOSHA,subdosha,avalambaka kapha,अवलम्बक कफ,अवलंबक कफ|~avalambaka|~अवलम्बक|~अवलंबक,avalambak kaf,,,,,,,user-seed
+dosha:bodhaka_kapha,DOSHA,subdosha,bodhaka kapha,बोधक कफ,रसन कफ|~bodhaka|~बोधक,bodhak kaf,,,,,,,user-seed
+dosha:tarpaka_kapha,DOSHA,subdosha,tarpaka kapha,तर्पक कफ,~tarpaka|~तर्पक,tarpak kaf,,,,,,,user-seed
+dosha:shleshaka_kapha,DOSHA,subdosha,śleṣaka kapha,श्लेषक कफ,~śleṣaka|~श्लेषक,shleshak kaf,,,,,,,user-seed
+dosha:rajas,DOSHA,manasa,rajas,रजस्,रज|~rajaḥ,,,,,,yes,mental dosha; also menstrual blood,seed-v0
+dosha:tamas,DOSHA,manasa,tamas,तमस्,तम|~tamaḥ,,,,,,yes,mental dosha,seed-v0
