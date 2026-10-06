@@ -1,25 +1,26 @@
 // AyurNER one-page NLP report. Compile: typst compile report.typ
 // Devanagari needs a font such as "Noto Sans Devanagari" installed (falls back otherwise).
 
-#set page(paper: "a4", margin: (x: 2cm, y: 1.8cm))
-#set text(font: ("Times New Roman", "Mangal", "Noto Serif Devanagari"), size: 10.5pt, fill: black)
-#set par(justify: true)
+#set page(paper: "a4", margin: (x: 1.8cm, y: 1.4cm))
+#set text(font: ("Times New Roman", "Liberation Serif", "Mangal", "Noto Serif Devanagari"), size: 10pt, fill: black)
+#set par(justify: true, leading: 0.5em, spacing: 0.6em)
 #set heading(numbering: none)
-#show heading.where(level: 2): it => [#v(0.6em) #text(weight: "bold", size: 12.5pt)[#it.body] #v(0.2em)]
+#show heading.where(level: 2): it => [#v(0.2em) #text(weight: "bold", size: 11.5pt)[#it.body] #v(0.05em)]
+#set list(spacing: 0.4em, indent: 0pt)
+#show raw: set text(size: 8pt)
 
-#let shot(label, h: 4.6cm) = rect(
+#let shot(label, h: 3.8cm) = rect(
   width: 100%, height: h, stroke: (dash: "dashed", paint: black, thickness: 0.7pt), radius: 3pt,
-  align(center + horizon, text(fill: black, size: 8.5pt)[#label \ (insert screenshot here)]),
+  align(center + horizon, text(fill: black, size: 8pt)[#label \ (insert screenshot here)]),
 )
 
 #align(center)[
-  #text(18pt, weight: "bold")[AyurNER: Named Entity Recognition for Ayurvedic Terms]
-  #v(-0.2em)
-  #text(10.5pt)[Natural Language Processing -- Course Project Report \
-  Name: *Riddhesh* #h(1em) Roll No: \_\_\_\_\_ #h(1em) Course/Instructor: \_\_\_\_\_ #h(1em) Date: \_\_\_\_\_]
+  #text(16pt, weight: "bold")[Named Entity Recognition for Ayurvedic Terms]
+
+  #text(10pt)[Natural Language Processing -- Course Project Report \
+  Name: *Riddhesh Chaudhary* #h(1em) Roll No: *A-14*]
 ]
 
-#v(0.5em)
 == Problem and Objective
 Ayurvedic text is written in Sanskrit and Hindi, in Devanagari, IAST, or casual romanization, so one term has many
 surface forms (_vāta_, _vaat_, वात). Generic NER tools do not cover this domain and no annotated corpus is available.
@@ -30,7 +31,7 @@ Python library, REST API and web UI.
 == How It Was Built
 The system is *dictionary + rules* (v1), with no training data needed. The pipeline has six stages:
 #table(
-  columns: (auto, 1fr), stroke: 0.5pt + black, inset: 4.5pt, align: (left, left),
+  columns: (auto, 1fr), stroke: 0.5pt + black, inset: 3pt, align: (left, left),
   [*1. Normalize*], [Unicode NFC, nukta/chandrabindu folding, zero-width char removal; offsets kept to the original text.],
   [*2. Tokenize*], [Script-aware tokens; sentence breaks at danda (।, ॥).],
   [*3. Phonetic key*], [Devanagari → IAST → folded key (diacritics, vowel length, final schwa), so _vāta_ = _vaat_; a looser second tier handles aspiration.],
@@ -74,9 +75,21 @@ the lexicon, so it measures regression safety, not independent real-world accura
 #v(1fr)
 == User Interface
 #grid(columns: (1fr, 1fr, 1fr), gutter: 6pt,
-  shot("Fig. 1: Text input and highlighted entities"),
-  shot("Fig. 2: Entity table (label, ID, canonical)"),
-  shot("Fig. 3: REST API /docs (Swagger)"),
+figure(
+  image("Image1.png", width: 100%),
+  caption: [Roman Text input and highlighted entities ]
+),
+figure(
+  image("Image2.png", width: 100%),
+  caption: [Devnagri Text input and highlighted entities ]
+),
+figure(
+  image("Image3.png", width: 100%),
+  caption: [REST APIs interface ]
+)
+  // shot("Fig. 1: Text input and highlighted entities"),
+  // shot("Fig. 2: Entity table (label, ID, canonical)"),
+  // shot("Fig. 3: REST API /docs (Swagger)"),
 )
 
 #v(1fr)
